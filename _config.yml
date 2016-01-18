@@ -7,7 +7,8 @@ twitter_username: organisationsliberees
 github_username:  organisationsliberees
 include: [".htaccess"]
 exclude: ["Makefile", "bin", "LICENSE"]
-
+gems:
+  - jekyll-redirect-from
 # Build settings
 markdown: kramdown
 permalink: pretty
