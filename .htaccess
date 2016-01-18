@@ -1,0 +1,11 @@
+---
+---
+DirectoryIndex index.html
+
+RewriteEngine On
+RewriteBase /
+
+{% for post in site.posts %}{% for alias in post.aliases %}
+RewriteRule ^{{ alias }} {{ post.url }} [R=301,L]
+{% endfor %}{% endfor %}
+

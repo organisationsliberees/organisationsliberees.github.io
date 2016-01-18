@@ -1,0 +1,13 @@
+# Site settings
+title: Organisations libérées
+description: "Annuaire des références documentaires relatives aux organisations et entreprises libérées"
+baseurl: ""
+url: "http://organisationsliberees.org/"
+twitter_username: organisationsliberees
+github_username:  organisationsliberees
+include: [".htaccess"]
+exclude: ["Makefile", "bin", "LICENSE"]
+
+# Build settings
+markdown: kramdown
+permalink: pretty
