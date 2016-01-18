@@ -3,12 +3,12 @@ title: Organisations libérées
 description: "Annuaire des références documentaires relatives aux organisations et entreprises libérées"
 baseurl: ""
 url: "http://organisationsliberees.org/"
-twitter_username: organisationsliberees
+twitter_username: orgasliberees
 github_username:  organisationsliberees
 include: [".htaccess"]
 exclude: ["Makefile", "bin", "LICENSE"]
-gems:
-  - jekyll-redirect-from
+#gems:
+#  - jekyll-redirect-from
 # Build settings
 markdown: kramdown
 permalink: pretty
