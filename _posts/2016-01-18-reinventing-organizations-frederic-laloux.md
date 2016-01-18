@@ -1,10 +1,10 @@
 ---
-title: Reinventing organizations - Frédéric Laloux
+title: Reeinventing organizations - Frédéric Laloux
 date:  2016-01-18 18:36
 layout: post
 category: [livre]
 tags: ["Frédéric Laloux", "AES", "Buurtzorg", "ESBZ", "Heiligenfeld", "Halocracy", "Morning Star", "Patagonia", "RHD", "Sounds True", "Sun Hydraulics", "Zappos", "Favi"]
-tagid: "Reinventing organizations"
+tagid: "Reeinventing organizations"
 ---
 ##Vers des communautés de travail inspirées
 
