@@ -5,6 +5,7 @@ layout: post
 category: [entreprise]
 tags: ["Jos de Blok"]
 tagid: Buurtzorg
+redirect_from: /buurtzorg/
 ---
 
 Buurtzorg est une entreprise à but non lucratif spécialisée dans les soins infirmiers à dominicile. Elle a été créé par Jos de Blok et sa femme en 2007.
