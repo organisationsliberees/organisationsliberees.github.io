@@ -6,6 +6,6 @@ category: [outil]
 tags: ["Favi", "La belle histoire de Favi"]
 ---
 
-Favi publie sur son site certaines des fiches outils qui sont publiées dans le tome 2 du livre de Jean-François Zobbrist.
+[Favi](/favi/) publie sur son site certaines des fiches outils qui sont publiées dans le tome 2 du livre de Jean-François Zobrist.
 
 [Consulter les fiches outils](http://www.favi.com/management-favi/comment-un-petit-patron-naif-et-paresseux-innove/)
