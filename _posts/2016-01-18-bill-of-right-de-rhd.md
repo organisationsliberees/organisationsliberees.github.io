@@ -2,7 +2,7 @@
 title: Bill of Rights de RHD
 date:  2016-01-18 20:52
 layout: post
-category: [outil]
+category: [outils]
 tags: ["RHD"]
 ---
 

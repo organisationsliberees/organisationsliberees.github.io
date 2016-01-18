@@ -2,7 +2,7 @@
 title: Le guide du nouvel arrivant à Valve
 date:  2016-01-18 20:55
 layout: post
-category: [outil]
+category: [outils]
 tags: ["Valve"]
 ---
 

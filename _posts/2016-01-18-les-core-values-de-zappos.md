@@ -2,7 +2,7 @@
 title: Les Core Values de Zappos
 date:  2016-01-18 21:00
 layout: post
-category: ["outil"]
+category: ["outils"]
 tags: ["Zappos"]
 ---
 
