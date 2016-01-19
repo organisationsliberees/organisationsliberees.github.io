@@ -8,5 +8,5 @@ Ce site est un site collectif qui vise à collecter un maximum d'information sur
 
 Sauf mention contraire, les contenus hébergés sur ce site sont publiés sous la licence <a href="">CC-by-sa</a>.
 
-Ce site a été généré par [jekyll](https://github.com/jekyll/jekyll). Les icones RSS et Email sont issues de wikipedia, vous pouvez trouvez les fichiers originaux [ici](https://en.wikipedia.org/wiki/File:Feed-icon.svg) et [la](https://commons.wikimedia.org/wiki/File:Mail-closed.svg?uselang=fr).
+Ce site a été généré par [jekyll](https://github.com/jekyll/jekyll). Les icones RSS et Email sont issues de wikipedia, vous pouvez trouver les fichiers originaux [ici](https://en.wikipedia.org/wiki/File:Feed-icon.svg) et [là](https://commons.wikimedia.org/wiki/File:Mail-closed.svg?uselang=fr).
 
