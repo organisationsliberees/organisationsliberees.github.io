@@ -6,7 +6,7 @@ layout: default
 
   <h1>Organisations libérées</h1>
 
-  <p>Ce site tente de référencer un maximum de contenus relatifs aux organisations ou entreprises libérées telles qu'elles ont pu être mis en valeur par le travail d'Isaac Getz ou Frédéric Laloux.</p>
+  <p>Ce site tente de référencer un maximum de contenus relatifs aux organisations ou entreprises libérées telles qu'elles ont pu être mis en valeur par le travail d'Isaac Getz ou <a href="/frederic-laloux/">Frédéric Laloux</a>.</p>
 
   <h2>Les entreprises étudiées&nbsp;:</h2>
   <ul class="posts">
@@ -18,17 +18,26 @@ layout: default
     {% endif %}{% endfor %}
   </ul>
 
+  <h2>Les personnalités&nbsp;:</h2>
+  <ul class="posts">
+    {% for post in site.posts %}
+{% if post.categories contains "personnalite" %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endif %}{% endfor %}
+  </ul>
 
 
   <h2>Les dernières fiches&nbsp;:</h2>
 
   <ul class="posts">
-    {% for post in site.posts limit:10 %}{% unless post.categories contains "entreprise" %}
+    {% for post in site.posts limit:10 %}{% unless post.categories contains "entreprise" %}{% unless post.categories contains "personnalite" %}
       <li>
 	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <span class="post-date">({{ post.date | date: "%b %-d, %Y" }} - {{post.category}})</span>
       </li>
-    {% endunless %}{% endfor %}
+    % endunless %}{% endunless %}{% endfor %}
   </ul>
 
   <p style="text-align: right; margin-right: 150px;"><a href="/archives/">Plus de notes</a><p/>
