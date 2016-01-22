@@ -2,7 +2,7 @@
 title: "Entreprise libérée : plus heureux sans chef ? (Capital, M6)"
 date:  2016-01-22 17:55
 layout: post
-category: [Documentaire]
+category: [télévision]
 tags: ["AMI", "Issac Getz", "Acces-sit", "Anaïs Victor", "Michelin"]
 ---
 
