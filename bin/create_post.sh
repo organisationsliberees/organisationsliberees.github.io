@@ -12,13 +12,13 @@ if ! test "$EXTENSION"; then
 	EXTENSION="md";
 fi
 
-SLUG=$(echo "$TITLE" | sed 's/[ "'"'"':,«»\.?()]/-/g' | sed 's/-*$//' | sed 's/[éèêë]/e/g' | tr '[:upper:]' '[:lower:]' | sed 's/--*/-/g')
+SLUG=$(echo "$TITLE" | sed 's/[ "'"'"':,«»\.?()]/-/g' | sed 's/-*$//' | sed 's/[éèêë]/e/g' | sed 's/[àâä]/a/g' | tr '[:upper:]' '[:lower:]' | sed 's/--*/-/g')
 DATE=$(date '+%Y-%m-%d')
 DATETIME=$(date '+%Y-%m-%d %H:%M')
 FILENAME=$DATE"-"$SLUG
 
 echo "---" > _posts/$FILENAME"."$EXTENSION
-echo "title: $TITLE" >> _posts/$FILENAME"."$EXTENSION
+echo 'title: "'"$TITLE"'"' >> _posts/$FILENAME"."$EXTENSION
 echo "date:  $DATETIME" >> _posts/$FILENAME"."$EXTENSION
 echo "layout: post" >> _posts/$FILENAME"."$EXTENSION
 echo "category: []" >> _posts/$FILENAME"."$EXTENSION
