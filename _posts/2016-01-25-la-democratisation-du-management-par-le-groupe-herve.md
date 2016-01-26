@@ -6,6 +6,6 @@ category: [blogpost]
 tags: ["groupe Hervé", "Michel Hervé"]
 ---
 
-Présentation des principe de management appliqué au sein du groupe Hervé qui a été résumé par son fondateur comme la « démocratisation du management ».
+Présentation des principe de management appliqué au sein du groupe Hervé qui a été résumé par son fondateur comme la « démocratisation du management » et « l'intrapreneuriat ».
 
 [Consulter la page de présentation](http://www.herve-management.com/groupe-herve/)
