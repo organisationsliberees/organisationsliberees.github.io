@@ -2,7 +2,7 @@
 title: Isaac Getz
 date:  2016-01-22 17:19
 layout: post
-category: [personnalite]
+category: [personnalité]
 tags: ["Liberté & Cie"]
 tagid: "Issac Getz"
 redirect_from: /isaac-getz/

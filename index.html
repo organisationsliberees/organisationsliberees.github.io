@@ -21,7 +21,7 @@ layout: default
   <h2>Les personnalités&nbsp;:</h2>
   <ul class="posts">
     {% for post in site.posts %}
-    {% if post.categories contains "personnalite" %}
+    {% if post.categories contains "personnalité" %}
       <li>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
@@ -32,7 +32,7 @@ layout: default
   <h2>Les dernières fiches&nbsp;:</h2>
 
   <ul class="posts">
-    {% for post in site.posts limit:10 %}{% unless post.categories contains "entreprise" %}{% unless post.categories contains "personnalite" %}
+    {% for post in site.posts limit:10 %}{% unless post.categories contains "entreprise" %}{% unless post.categories contains "personnalité" %}
       <li>
 	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <span class="post-date">({{ post.date | date: "%b %-d, %Y" }} - {{post.category}})</span>
