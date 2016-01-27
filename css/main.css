@@ -154,7 +154,8 @@ a:visited { color: #205caa; }
 
 .posts { list-style-type: none; }
 
-.posts li { margin-bottom: 30px; }
+/* .posts li { margin-bottom: 30px; } */
+.tags li {display: inline; margin-right: 5%;}
 
 /*
 .posts .post-link {
