@@ -12,7 +12,7 @@ if ! test "$EXTENSION"; then
 	EXTENSION="md";
 fi
 
-SLUG=$(echo "$TITLE" | sed 's/[ "'"'"':,«»\.?()]/-/g' | sed 's/-*$//' | sed 's/[éèêë]/e/g' | sed 's/[àâä]/a/g' | tr '[:upper:]' '[:lower:]' | sed 's/--*/-/g')
+SLUG=$(echo "$TITLE" | sed 's/[ "'"'"':,«»\.?()!]/-/g' | sed 's/-*$//' | sed 's/[éèêë]/e/g' | sed 's/[àâä]/a/g' | tr '[:upper:]' '[:lower:]' | sed 's/--*/-/g')
 DATE=$(date '+%Y-%m-%d')
 DATETIME=$(date '+%Y-%m-%d %H:%M')
 FILENAME=$DATE"-"$SLUG
