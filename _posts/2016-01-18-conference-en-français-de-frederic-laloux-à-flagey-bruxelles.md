@@ -3,7 +3,7 @@ title: Conference en français de Frédéric Laloux à Flagey, Bruxelles
 date:  2016-01-18 19:33
 layout: post
 category: [conference]
-tags: ["Frédéric Laloux", "Reinventing organizations"]
+tags: ["Frédéric Laloux", "Reinventing organizations", "Buurtzorg"]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZKqPoQiaDE" frameborder="0" allowfullscreen></iframe>
