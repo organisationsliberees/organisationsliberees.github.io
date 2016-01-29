@@ -4,6 +4,7 @@ date:  2016-01-27 23:22
 layout: post
 category: [conférence]
 embed_youtube: sIJfvtBAQRo
+illustration: /images/sIJfvtBAQRo.jpg
 tags: ["Lippi", "Frédéric Lippi"]
 ---
 

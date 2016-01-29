@@ -4,6 +4,7 @@ date:  2016-01-27 17:37
 layout: post
 category: [conférence]
 embed_youtube: 289lwrW_gP0
+illustration: /images/289lwrW_gP0.jpg
 tags: ["Ludovic Cinquin", "Octo", "Morning Star", "Zappos", "Netflix", "Issac Getz", Favi, "Gore", "Chrono Flex", Poult, Semco, "Health Care"]
 ---
 

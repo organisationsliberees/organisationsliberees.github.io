@@ -4,6 +4,7 @@ date:  2016-01-27 20:18
 layout: post
 category: [interview]
 embed_youtube: fz8ZEvP4-a0
+illustration: /images/fz8ZEvP4-a0.jpg
 tags: ["Syd Conseil", "Yann Trichard"]
 ---
 

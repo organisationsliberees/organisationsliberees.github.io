@@ -4,6 +4,7 @@ date:  2016-01-18 19:33
 layout: post
 category: [conference]
 embed_youtube: NZKqPoQiaDE
+illustration: /images/NZKqPoQiaDE.jpg
 tags: ["Frédéric Laloux", "Reinventing organizations", "Buurtzorg"]
 ---
 

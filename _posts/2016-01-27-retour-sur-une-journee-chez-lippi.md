@@ -4,6 +4,7 @@ date:  2016-01-27 21:04
 layout: post
 category: ["vidéo"]
 embed_youtube: c7hxyb4GOmU
+illustration: /images/c7hxyb4GOmU.jpg
 tags: ["Lippi"]
 ---
 

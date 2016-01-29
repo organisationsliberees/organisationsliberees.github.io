@@ -4,6 +4,7 @@ date:  2016-01-27 19:59
 layout: post
 category: [radio]
 embed_youtube: brq1INT2hPo
+illustration: /images/brq1INT2hPo.jpg
 tags: ["IMA Technologies", "Christophe Collignon"]
 ---
 

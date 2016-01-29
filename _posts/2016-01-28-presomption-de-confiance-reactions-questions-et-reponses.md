@@ -4,6 +4,7 @@ date:  2016-01-28 00:01
 layout: post
 category: [conférence]
 embed_youtube: xL-nZzedRmQ
+illustration: /images/xL-nZzedRmQ.jpg
 tags: ["Frédéric Lippi", "Lippi", "Laurence Vanhee", "Ministère de la Sécurité sociale belge"]
 ---
 

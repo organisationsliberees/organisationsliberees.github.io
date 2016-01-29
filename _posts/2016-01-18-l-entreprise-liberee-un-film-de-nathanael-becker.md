@@ -4,6 +4,7 @@ date:  2016-01-18 19:53
 layout: post
 category: ["film"]
 embed_youtube: lGShsSQatN8
+illustration: /images/lGShsSQatN8.jpg
 tags: ["Favi", "Issac Getz", "Jean-François Zobrist", "Michel Munzenhuter", "Sew Usocome"]
 ---
 

@@ -4,6 +4,7 @@ date:  2016-01-27 21:27
 layout: post
 category: [télévision]
 embed_youtube: M_kr-YTuaR0
+illustration: /images/M_kr-YTuaR0.jpg
 tags: ["Sew Usocome", "Michel Munzenhuter"]
 ---
 

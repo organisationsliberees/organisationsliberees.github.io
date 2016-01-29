@@ -4,6 +4,7 @@ date:  2016-01-27 23:48
 layout: post
 category: [vidéo]
 embed_youtube: xFh2vDoD2wo
+illustration: /images/xFh2vDoD2wo.jpg
 tags: ["Frédéric Laloux"]
 ---
 

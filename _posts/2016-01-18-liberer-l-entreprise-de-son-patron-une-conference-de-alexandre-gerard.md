@@ -4,6 +4,7 @@ date:  2016-01-18 20:14
 layout: post
 category: [conference]
 embed_youtube: H9HbwkGAmgo
+illustration: /images/H9HbwkGAmgo.jpg
 tags: ["Alexandre Gérard", "ChronoFlex"]
 ---
 

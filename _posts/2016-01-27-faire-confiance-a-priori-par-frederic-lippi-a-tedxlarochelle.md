@@ -4,6 +4,7 @@ date:  2016-01-27 21:00
 layout: post
 category: [vidéo]
 embed_youtube: jwUskTfhbIk
+illustration: /images/jwUskTfhbIk.jpg
 tags: ["Lippi", "Frédéric Lippi"]
 ---
 

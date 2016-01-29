@@ -4,6 +4,7 @@ date:  2016-01-27 21:02
 layout: post
 category: ["intervention"]
 embed_youtube: bVD07X3Gqrg
+illustration: /images/bVD07X3Gqrg.jpg
 tags: ["Lippi", "Frédéric Lippi"]
 ---
 

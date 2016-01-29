@@ -4,6 +4,7 @@ date:  2016-01-25 12:13
 layout: post
 category: [conference]
 embed_youtube: k4vzhweOefs
+illustration: /images/k4vzhweOefs.jpg
 tags: ["Semco", "Ricardo Semler"]
 ---
 

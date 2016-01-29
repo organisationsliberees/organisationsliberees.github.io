@@ -4,6 +4,7 @@ date:  2016-01-18 20:19
 layout: post
 category: [conference]
 embed_youtube: D2IZG-9TL2E
+illustration: /images/D2IZG-9TL2E.jpg
 tags: ["Laurence Vanhée", "Ministère de la Sécurité sociale belge"]
 ---
 

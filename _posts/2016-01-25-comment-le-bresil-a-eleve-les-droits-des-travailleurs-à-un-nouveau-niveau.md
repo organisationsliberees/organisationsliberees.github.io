@@ -4,6 +4,7 @@ date:  2016-01-25 12:08
 layout: post
 category: [reportage]
 embed_youtube: gG3HPX0D2mU
+illustration: /images/gG3HPX0D2mU.jpg
 tags: ["Semco"]
 ---
 

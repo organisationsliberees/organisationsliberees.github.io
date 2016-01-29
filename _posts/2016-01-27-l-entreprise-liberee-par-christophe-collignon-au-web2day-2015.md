@@ -4,6 +4,7 @@ date:  2016-01-27 18:12
 layout: post
 category: [conference]
 embed_youtube: QtMxxcKVx5Y
+illustration: /images/QtMxxcKVx5Y.jpg
 tags: ["Issac Getz", "Christophe Collignon", "IMA Technologies", "Lippi", Favi, Poult, "Nordstrom"]
 ---
 

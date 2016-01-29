@@ -4,6 +4,7 @@ date:  2016-01-25 23:47
 layout: post
 category: [conference]
 embed_youtube: vvIqqE5lrjU
+illustration: /images/vvIqqE5lrjU.jpg
 tags: ["Michel Hervé", "groupe Hervé"]
 ---
 

@@ -4,6 +4,7 @@ date:  2016-01-22 18:50
 layout: post
 category: [television]
 embed_youtube: JoKOAl9XhGs
+illustration: /images/JoKOAl9XhGs.jpg
 tags: ["Poult"]
 ---
 

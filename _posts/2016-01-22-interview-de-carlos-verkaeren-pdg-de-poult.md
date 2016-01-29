@@ -4,6 +4,7 @@ date:  2016-01-22 18:58
 layout: post
 category: [video]
 embed_youtube: 2XnJs5dykbk
+illustration: /images/2XnJs5dykbk.jpg
 tags: ["Poult", "Carlos Verkaeren"]
 ---
 

@@ -5,6 +5,7 @@ layout: post
 category: [conférence]
 tags: [Zappos, "Tony Hsieh"]
 embed_youtube: yxKlK58gDrA
+illustration: /images/yxKlK58gDrA.jpg
 ---
 
 Conférence de Tony Hsieh de Zappos à Business School de Stanford.

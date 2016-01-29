@@ -4,6 +4,7 @@ date:  2016-01-27 19:30
 layout: post
 category: [télévision]
 embed_youtube: 71B-DKczje8
+illustration: /images/71B-DKczje8.jpg
 tags: ["Syd Conseil", "ChronoFlex"]
 ---
 

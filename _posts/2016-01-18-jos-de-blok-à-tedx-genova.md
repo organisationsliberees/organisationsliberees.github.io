@@ -4,6 +4,7 @@ date:  2016-01-18 20:31
 layout: post
 category: [conference]
 embed_youtube: SSoWtXvqsgg
+illustration: /images/SSoWtXvqsgg.jpg
 tags: ["Jos de Blok", "Buurtzorg"]
 ---
 

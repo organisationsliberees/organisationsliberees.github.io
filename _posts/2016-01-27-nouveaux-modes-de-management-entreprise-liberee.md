@@ -4,6 +4,7 @@ date:  2016-01-27 23:04
 layout: post
 category: [conférence]
 embed_youtube: NakSkVFhL-c
+illustration: /images/NakSkVFhL-c.jpg
 tags: [Alma, Sogilis, Digimind]
 ---
 

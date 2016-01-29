@@ -4,6 +4,7 @@ date:  2016-01-18 20:09
 layout: post
 category: [conference]
 embed_youtube: 9oZUMzQDaw8
+illustration: /images/9oZUMzQDaw8.jpg
 tags: ["Issac Getz", "Liberté et Compagnie"]
 ---
 

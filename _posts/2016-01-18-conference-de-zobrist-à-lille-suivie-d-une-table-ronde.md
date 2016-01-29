@@ -4,6 +4,7 @@ date:  2016-01-18 20:46
 layout: post
 category: [conference]
 embed_youtube: 2jjEN5hdFwc
+illustration: /images/2jjEN5hdFwc.jpg
 tags: ["Jean-François Zobrist", "Favi", "Auchan Leens", "Doublet",  "Davidson consulting", "CIV"]
 ---
 

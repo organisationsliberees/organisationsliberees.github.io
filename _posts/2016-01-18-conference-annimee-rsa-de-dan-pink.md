@@ -4,6 +4,7 @@ date:  2016-01-18 20:17
 layout: post
 category: [conference]
 embed_youtube: u6XAPnuFjJc
+illustration: /images/u6XAPnuFjJc.jpg
 tags: ["Dan Pink", "Drive"]
 ---
 

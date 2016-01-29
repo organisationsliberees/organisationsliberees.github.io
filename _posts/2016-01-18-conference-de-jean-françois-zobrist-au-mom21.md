@@ -4,6 +4,7 @@ date:  2016-01-18 20:45
 layout: post
 category: [conference]
 embed_youtube: KXIy_qlmq1Q
+illustration: /images/KXIy_qlmq1Q.jpg
 tags: ["Jean-François Zobrist", "Favi"]
 ---
 

@@ -4,6 +4,7 @@ date:  2016-01-22 19:21
 layout: post
 category: [conference]
 embed_youtube: lcgerZTq640
+illustration: /images/lcgerZTq640.jpg
 tags: ["Poult"]
 ---
 

@@ -4,6 +4,7 @@ date:  2016-01-27 21:35
 layout: post
 category: ["vidéo"]
 embed_youtube: rOgKQRAlbDc
+illustration: /images/rOgKQRAlbDc.jpg
 tags: ["Sew Usocome", "Thierry Watelet"]
 ---
 

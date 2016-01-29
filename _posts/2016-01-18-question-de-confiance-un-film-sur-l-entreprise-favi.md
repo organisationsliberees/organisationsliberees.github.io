@@ -4,6 +4,7 @@ date:  2016-01-18 19:48
 layout: post
 category: [film]
 embed_youtube: pBTdhwXpKOA
+illustration: /images/pBTdhwXpKOA.jpg
 tags: ["Favi", "Jean-François Zobrist"]
 ---
 

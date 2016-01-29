@@ -4,6 +4,7 @@ date:  2016-01-18 20:24
 layout: post
 category: [confernce]
 embed_youtube: 7PmmhzljJdw
+illustration: /images/7PmmhzljJdw.jpg
 tags: ["Sylvain Pierre", "Officience"]
 ---
 

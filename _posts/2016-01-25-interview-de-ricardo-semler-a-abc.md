@@ -4,6 +4,7 @@ date:  2016-01-25 12:21
 layout: post
 category: [interview]
 embed_youtube: UxeosFrLFH8
+illustration: /images/UxeosFrLFH8.jpg
 tags: ["Semco", "Ricardo Semler"]
 ---
 

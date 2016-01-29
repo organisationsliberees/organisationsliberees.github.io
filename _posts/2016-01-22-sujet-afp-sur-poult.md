@@ -4,6 +4,7 @@ date:  2016-01-22 19:17
 layout: post
 category: [video]
 embed_youtube: lkBQvqiIRko
+illustration: /images/lkBQvqiIRko.jpg
 tags: ["Poult"]
 ---
 
