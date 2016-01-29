@@ -18,14 +18,16 @@ layout: default
   {% if page.tagid %}
   <div>
   <h2>Aller plus loin :</h2>
-  <ul>
+  <ul class="visuposts">
   {% for post in site.posts %}
   {% for tag in post.tags %}
   {% if tag == page.tagid %}
-  <li class="archive_list">
-    <a class="archive_list_article_link" href='{{post.url}}'>{{post.title}}</a> <span class="meta">(&nbsp;{{post.category}}&nbsp;)</span>
-    <p class="summary">{{post.summary}}</p>
-  </li>
+    {% if post.illustration %}
+    {% assign illustration = (post.illustration) %}
+    {% else %}
+    {% assign illustration = "/images/default.jpg" %}
+    {% endif %}
+      <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ illustration | replace : '.', '.square.' }}" title="{{ post.title }}"/></a></li>
   {% endif %}
   {% endfor %}
   {% endfor %}

@@ -335,6 +335,23 @@ a:visited { color: #205caa; }
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
+ul.visuposts li{ display: inline; position:relative;}
+ul.visuposts li img {width: 30%; }
+ul.visuposts li a.post-link {
+    position: relative;
+}
+
+ul.visuposts li a::after {
+    background-color: rgba(0, 0, 10, 0.82);
+    bottom: 0;
+    color: white;
+    content: attr(title);
+    left: 0;
+    margin-bottom: 5px;
+    padding: 10px;
+    position: absolute;
+    z-index: 1;
+}
 
 /* media queries */
 /* ----------------------------------------------------------*/
