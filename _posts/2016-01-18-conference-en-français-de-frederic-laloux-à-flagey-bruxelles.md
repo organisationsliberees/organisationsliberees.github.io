@@ -3,9 +3,10 @@ title: Conference en français de Frédéric Laloux à Flagey, Bruxelles
 date:  2016-01-18 19:33
 layout: post
 category: [conference]
+embed_youtube: NZKqPoQiaDE
 tags: ["Frédéric Laloux", "Reinventing organizations", "Buurtzorg"]
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NZKqPoQiaDE" frameborder="0" allowfullscreen></iframe>
 
-<p>Conférence d'un heure 43 minutes de Frédéric Laloux donnée le 14 mars 2014 au Studio 1 de Flagey (Bruxelles) pour lancement de la version anglaise de son livre "Reinventing Organizations".</p>
+
+Conférence d'un heure 43 minutes de Frédéric Laloux donnée le 14 mars 2014 au Studio 1 de Flagey (Bruxelles) pour lancement de la version anglaise de son livre "Reinventing Organizations".
