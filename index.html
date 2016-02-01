@@ -9,13 +9,16 @@ layout: default
   <p>Ce site tente de référencer un maximum de contenus relatifs aux organisations ou entreprises libérées telles qu'elles ont pu être mises en valeur par le travail d'<a href="/isaac-getz/">Isaac Getz</a> ou <a href="/frederic-laloux/">Frédéric Laloux</a>.</p>
 
   <h2>Les organisations étudiées&nbsp;:</h2>
-  <ul class="tags">
+  <ul class="visuposts">
 {% assign sorted_pages = (site.posts | sort: 'title') %}
     {% for post in sorted_pages %}
     {% if post.categories contains "entreprise" %}
-      <li>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | replace: ' ', '&nbsp;'}}</a>
-      </li>
+    {% if post.illustration %}
+    {% assign illustration = (post.illustration) %}
+    {% else %}
+    {% assign illustration = "/images/default.jpg" %}
+    {% endif %}
+      <li><span data-category="{{post.categories}}"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" data-category="{{post.categories}}"><img src="{{ illustration | replace : '.', '.square.' }}" title="{{ post.categories }}"/></a></span></li>
     {% endif %}{% endfor %}
   </ul>
 
