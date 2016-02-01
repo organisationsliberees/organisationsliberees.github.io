@@ -1,5 +1,5 @@
 ---
-title: "Comment résoudre un conflit dans une organisation auto-géré ? (anglais)"
+title: "Comment résoudre un conflit dans une organisation auto-gérée ? (anglais)"
 date:  2016-02-01 23:30
 layout: post
 category: [outil]
