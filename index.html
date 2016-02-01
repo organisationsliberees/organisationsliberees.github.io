@@ -42,7 +42,7 @@ layout: default
     {% else %}
     {% assign illustration = "/images/default.jpg" %}
     {% endif %}
-      <li><span data-category="{{post.categories}}"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" data-category="{{post.categories}}"><img src="{{ illustration | replace : '.', '.square.' }}" title="{{ post.categories }}"/></a></span></li>
+      <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ illustration | replace : '.', '.square.' }}" alt="{{ post.title }}" /><span class="title">{{ post.title }}</span><span class="categories">{{post.categories}}</span></a></li>
     {% endunless %}{% endunless %}{% endfor %}
   </ul>
 
