@@ -1,5 +1,5 @@
 ---
-title: "Au delà de l'empowerment, est vous prêt pour l'organisation auto-gérée ? par Doug Kirkpatrick"
+title: "Au delà de l'empowerment, prêts pour l'organisation auto-gérée ? par D. Kirkpatrick"
 date:  2016-02-01 22:43
 layout: post
 category: [conférence]
