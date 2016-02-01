@@ -3,7 +3,7 @@ title: "Comment résoudre un conflit dans une organisation auto-gérée ? (angla
 date:  2016-02-01 23:30
 layout: post
 category: [outil]
-tags: ["Morning Start", "Résolution de conflit"]
+tags: ["Morning Star", "Résolution de conflit"]
 embed_youtube: eftuBbu97B4
 illustration: /images/eftuBbu97B4.jpg
 ---
