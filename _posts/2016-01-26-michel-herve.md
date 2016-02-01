@@ -5,6 +5,7 @@ layout: post
 category: [personnalité]
 tags: ["groupe Hervé"]
 tagid: "Michel Hervé"
+illustration: /images/herve.jpg
 ---
 
 Michel Hervé est le fondateur du groupe Hervé, entreprise qu'il a créé en 1972.

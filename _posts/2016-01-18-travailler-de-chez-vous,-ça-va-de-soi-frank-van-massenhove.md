@@ -4,6 +4,8 @@ date:  2016-01-18 19:08
 layout: post
 category: ["livre"]
 tags: ["Frank Van Massenhove", "Ministère de la Sécurité sociale belge"]
+isbn: 978-9401409094
+illustration: /images/978-9401409094.jpg
 ---
 
 Dans ce livre, Frank Van Massenhove explique comment il a initié une petite révolution au sein du ministère de la sécuréité sociale belge qu'il dirige en instaurant la possibilité pour tous les agents de pouvoir télétravailler.

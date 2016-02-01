@@ -4,6 +4,7 @@ date:  2016-01-27 18:24
 layout: post
 category: [presse]
 tags: ["IMA Technologies", "Christophe Collignon"]
+illustration: /images/ouestfrance.jpg
 ---
 
 Article de Ouest-France sur IMA Technologies paru le 3 décembre 2013.

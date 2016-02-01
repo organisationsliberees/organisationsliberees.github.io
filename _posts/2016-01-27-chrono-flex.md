@@ -5,6 +5,7 @@ layout: post
 category: [entreprise]
 tags: ["Alexandre Gérard"]
 tagid: "ChronoFlex"
+illustration: /images/chronoflex.jpg
 ---
 
 Chrono Flex est une entreprise de la région nantaise spécialisée dans la réparation de flexible hydraulique créé par Alexandre Gérard en 1995. Elle a débuté sa migration vers un management libéré à partir de 2011. Elle emploie 300 personnes.

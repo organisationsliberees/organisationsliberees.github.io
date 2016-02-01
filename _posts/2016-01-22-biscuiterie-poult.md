@@ -6,6 +6,7 @@ category: [entreprise]
 tags: ["Carlos Verkaeren"]
 tagid: Poult
 redirect_from: /poult/
+illustration: /images/poult.jpg
 ---
 
 Entreprise française spécialisée dans la fabrication de Biscuit. Elle migre vers un management libéré en 2001 suite à l'arrivée à sa tête de Carlos Verkaeren.

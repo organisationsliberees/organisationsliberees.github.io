@@ -6,6 +6,7 @@ category: [personnalité]
 tags: ["Liberté & Cie"]
 tagid: "Issac Getz"
 redirect_from: /isaac-getz/
+illustration: /images/isaac-getz.jpg
 ---
 
 Isaac Getz est un professeur de « leadership » et d'« innovation » à l'ESCP. Il est le co-auteur du livre « [Liberté & Ci](/livre/2016/01/18/liberte-et-compagnie-isaac-getz/) ».

@@ -4,6 +4,9 @@ date:  2016-01-18 18:01
 layout: post
 category: [livre]
 tags: ["Issac Getz", "Favi", "Gore", "USAA", "Harley-Davidson", "Richards Group", "Sea Smoke Cellars", "Sun Hidraulics", "Université de Virgine", "SOL", "Oticon", "GSI", "QuadGraphics", "IDEO", "Sew Usocome", "Southwest Airlines", "Chaparral Steel"]
+isbn: 978-2081379510
+illustration: /images/978-2081379510.jpg
+tagid: "Liberté & Cie"
 ---
 ##Quand la liberté des salariés fait le succès des entreprises
 

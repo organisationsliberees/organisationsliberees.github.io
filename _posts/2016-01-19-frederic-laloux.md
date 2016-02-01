@@ -6,6 +6,7 @@ category: [personnalité]
 tags: ["Reinventing organization"]
 tagid: "Frédéric Laloux"
 Redirect_from: /frederic-laloux/
+illustration: /images/laloux.jpg
 ---
 
 Frédéric Laloux est l'auteur du livre [Reinventing organization](/reinventing-organization/), livre de référence en ce qui concerne les organisations libérées.

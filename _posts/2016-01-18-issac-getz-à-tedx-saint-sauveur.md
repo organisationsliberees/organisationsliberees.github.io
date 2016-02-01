@@ -5,7 +5,7 @@ layout: post
 category: [conference]
 embed_youtube: 9oZUMzQDaw8
 illustration: /images/9oZUMzQDaw8.jpg
-tags: ["Issac Getz", "Liberté et Compagnie"]
+tags: ["Issac Getz", "Liberté & Cie"]
 ---
 
 

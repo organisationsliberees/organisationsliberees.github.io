@@ -6,6 +6,7 @@ category: [personnalité]
 tags: ["Favi"]
 tagid: "Jean-François Zobrist"
 redirect_from: "/jean-francois-zobrist/"
+illustration: /images/zobrist.jpg
 ---
 
 Jean-François Zobrist a été le dirigeant de la fonderie [Favi](/favi/) pendant plus de trente ans.

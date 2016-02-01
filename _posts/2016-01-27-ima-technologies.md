@@ -5,6 +5,7 @@ layout: post
 category: [entreprise]
 tags: ["Christophe Collignon"]
 tagid: "IMA Technologies"
+illustration: /images/imatechnologies.jpg
 ---
 
 IMA Technologie est une entreprise spécialisée dans les centres d'appel basée dans la région nantaise qui compte 400 collaborateurs.

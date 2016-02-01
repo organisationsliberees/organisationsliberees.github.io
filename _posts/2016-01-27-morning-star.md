@@ -5,6 +5,7 @@ layout: post
 category: [entreprise]
 tags: []
 tagid: "Morning Star"
+illustration: /images/morning_star.jpg
 ---
 
 Morning Star est une entreprise californienne spécialisée dans la production de sauces tomates.
