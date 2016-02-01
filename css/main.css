@@ -349,9 +349,11 @@ ul.visuposts li a.post-link span.title {
     color: white;
     left: 0;
     margin-bottom: 5px;
-    padding: 10px;
     position: absolute;
     z-index: 1;
+    min-height: 15%;
+    padding: 5%;
+    width: 90%;
 }
 
 ul.visuposts li a.post-link span.categories {
