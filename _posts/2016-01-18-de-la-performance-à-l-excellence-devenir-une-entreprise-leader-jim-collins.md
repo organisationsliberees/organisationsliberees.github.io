@@ -4,7 +4,7 @@ date:  2016-01-18 19:10
 layout: post
 category: ["livre"]
 tags: ["Jim Collins", "Abbott", "Circuit City", "Fannie Mae", "General Electric", "Gillette", "Kimberly-Clark", "Kroger", "Nucor", "Philip Morris", "Rubbermaid", "Walgreens", "Wells Fargo"]
-isbn: 978-2744065651.jpg
+isbn: 978-2744065651
 illustration: /images/978-2744065651.jpg
 ---
 ##Devenir une entreprise leader
