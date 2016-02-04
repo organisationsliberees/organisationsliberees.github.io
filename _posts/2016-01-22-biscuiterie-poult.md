@@ -22,3 +22,9 @@ Les principes fondamentaux de l'entreprises sont :
  * Démocratisation des décision
  * Droit à l'erreur
 
+Consulter les biscuits produits par Poult à l'usine de [Montauban](http://world.openfoodfacts.org/packager-code/emb-82121), celle de [Briec](http://fr.openfoodfacts.org/code-emballeur/emb-29020h), celle de [Fouesnant](http://fr.openfoodfacts.org/code-emballeur/emb-29058a), de [Sully sur Loire](http://fr.openfoodfacts.org/code-emballeur/emb-45315) ou à l'[usine de Aire sur l'adour](http://fr.openfoodfacts.org/commune/aire-sur-l-adour-landes-france).
+
+[Consulter le site de Poult](http://www.groupe-poult.com/fr/)
+
+
+
