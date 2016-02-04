@@ -3,7 +3,7 @@ title: "Scarabée Biocoop redistribue le pouvoir à ses salariés"
 date:  2016-01-26 16:54
 layout: post
 category: [article]
-tags: ["Scarabée"]
+tags: ["Scarabée Biocoop"]
 ---
 
 Un article décrivant l'organisation retenue pour les magasins bios rennais : Scarabée.
