@@ -4,6 +4,7 @@ date:  2016-02-04 15:42
 layout: post
 category: [article]
 tags: ["Morning Star"]
+illustration: /images/hbr2011.jpg
 ---
 
 Un article de la Harvard Business Review de 2011 abordant notamment l'expérience Morning Star.
