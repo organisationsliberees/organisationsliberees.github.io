@@ -340,7 +340,7 @@ ul.visuposts li img {width: 100%; }
 ul.visuposts li a.post-link {
     position: relative;
     display: inline-block;
-    width: 30%;
+    width: 24%;
 }
 
 ul.visuposts li a.post-link span.title {
