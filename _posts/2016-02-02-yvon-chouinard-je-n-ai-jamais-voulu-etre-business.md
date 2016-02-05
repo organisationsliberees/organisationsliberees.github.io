@@ -1,5 +1,5 @@
 ---
-title: "Yvon Chouinard, Patagonia : « Je n'ai jamais voulu être business »"
+title: "Yvon Chouinard, Patagonia : « Je n'ai jamais voulu être businessman »"
 date:  2016-02-02 11:26
 layout: post
 category: [conférence]
