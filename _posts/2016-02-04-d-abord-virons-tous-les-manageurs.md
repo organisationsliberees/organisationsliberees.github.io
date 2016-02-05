@@ -1,6 +1,6 @@
 ---
 title: "D'abord, virons tous les manageurs"
-date:  2016-02-04 15:42
+date:  2016-02-04 15:40
 layout: post
 category: [article]
 tags: ["Morning Star"]
