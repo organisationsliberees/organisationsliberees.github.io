@@ -3,7 +3,7 @@ title: "D'abord, virons tous les manageurs"
 date:  2016-02-04 15:40
 layout: post
 category: [article]
-tags: ["Morning Star"]
+tags: ["Morning Star", "Gary Hamel", "La fin du management"]
 illustration: /images/hbr2011.jpg
 ---
 
