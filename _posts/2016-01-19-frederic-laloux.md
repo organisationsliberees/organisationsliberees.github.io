@@ -5,7 +5,7 @@ layout: post
 category: [personnalité]
 tags: ["Reinventing organization"]
 tagid: "Frédéric Laloux"
-Redirect_from: /frederic-laloux/
+redirect_from: /frederic-laloux/
 illustration: /images/laloux.jpg
 ---
 
