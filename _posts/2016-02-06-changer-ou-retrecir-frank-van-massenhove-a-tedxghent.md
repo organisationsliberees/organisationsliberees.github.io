@@ -1,5 +1,5 @@
 ---
-title: "Changer ou se rétrécir : Frank Van Massenhove à TEDxGhent"
+title: "Changer ou rétrécir : Frank Van Massenhove à TEDxGhent"
 date:  2016-02-06 16:18
 layout: post
 category: [conférence]
