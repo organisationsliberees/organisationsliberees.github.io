@@ -8,4 +8,4 @@ embed_youtube: eETwlF3ZvH4
 illustration: /images/eETwlF3ZvH4.jpg
 ---
 
-Un atelier de l'association MOM21 sur comment le droit du travail est appliqué dans les entreprises libérées.
+Un atelier de l'association MOM21 sur comment le droit du travail est appliqué dans les entreprises libérées ayant eu lieu le 19 février 2016.
