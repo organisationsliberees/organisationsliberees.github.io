@@ -53,7 +53,7 @@ layout: default
   <h2>Les dernières fiches&nbsp;:</h2>
 
   <ul class="visuposts">
-    {% for post in site.posts limit:9 %}{% unless post.categories contains "entreprise" %}{% unless post.categories contains "personnalité" %}
+    {% for post in site.posts limit:8 %}{% unless post.categories contains "entreprise" %}{% unless post.categories contains "personnalité" %}
     {% if post.illustration %}
     {% assign illustration = (post.illustration) %}
     {% else %}
