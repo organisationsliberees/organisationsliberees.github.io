@@ -3,11 +3,8 @@ layout: default
 ---
 
 <div class="home">
-
   <h1>Organisations libérées</h1>
-
   <p>Ce site tente de référencer un maximum de contenus relatifs aux organisations ou entreprises libérées telles qu'elles ont pu être mises en valeur par le travail d'<a href="/isaac-getz/">Isaac Getz</a> ou <a href="/frederic-laloux/">Frédéric Laloux</a>.</p>
-
   <h2>Les organisations étudiées&nbsp;:</h2>
   <ul class="visuposts">
 {% assign sorted_pages = (site.posts | sort: 'title') %}
@@ -21,7 +18,6 @@ layout: default
       <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" data-category="{{post.categories}}"><img src="{{ illustration | replace : '.', '.square.' }}" title="{{ post.categories }}"/><span class="title">{{ post.title }}</span></a></li>
     {% endif %}{% endfor %}
   </ul>
-
   <h2>Les personnalités&nbsp;:</h2>
   <ul class="visuposts">
     {% for post in site.posts %}
@@ -34,8 +30,6 @@ layout: default
       <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" data-category="{{post.categories}}"><img src="{{ illustration | replace : '.', '.square.' }}" title="{{ post.categories }}"/><span class="title">{{ post.title }}</span></a></li>
     {% endif %}{% endfor %}
   </ul>
-
-
   <h2>Les livres&nbsp;:</h2>
   <ul class="visuposts">
     {% for post in site.posts %}
@@ -48,10 +42,7 @@ layout: default
       <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" data-category="{{post.categories}}"><img src="{{ illustration | replace : '.', '.square.' }}" title="{{ post.categories }}"/><span class="title">{{ post.title }}</span></a></li>
     {% endif %}{% endfor %}
   </ul>
-
-
   <h2>Les dernières fiches&nbsp;:</h2>
-
   <ul class="visuposts">
     {% for post in site.posts limit:9 %}{% unless post.categories contains "entreprise" %}{% unless post.categories contains "personnalité" %}
     {% if post.illustration %}
@@ -62,7 +53,5 @@ layout: default
       <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ illustration | replace : '.', '.square.' }}" alt="{{ post.title }}" /><span class="title">{{ post.title }}</span><span class="categories">{{post.categories}}</span></a></li>
     {% endunless %}{% endunless %}{% endfor %}
   </ul>
-
   <p style="text-align: right; margin-right: 150px;"><a href="/archives/">Plus de notes</a><p/>
-
 </div>
