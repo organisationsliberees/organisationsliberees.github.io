@@ -4,6 +4,7 @@ date:  2016-01-26 18:55
 layout: post
 category: [article]
 tags: ["Poult", "ChronoFlex", "Zappos", "Lippi", "Favi", "Auchan", "Issac Getz"]
+illustration: /images/entrepriseliberee-lemonde.jpg
 ---
 
 Article paru dans Le Monde de Margherita Nasi du 28 mai 2014 qui se penche sur le cas de Poult, Chrono Flex, Zappos, Lippi, Favi ou Auchan.

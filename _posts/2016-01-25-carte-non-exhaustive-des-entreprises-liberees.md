@@ -4,6 +4,7 @@ date:  2016-01-25 23:40
 layout: post
 category: [cartographie]
 tags: []
+illustration: /images/carte.jpg
 ---
 
 Carte Google recensant les entreprises libérée en France, Belgique et Allemagne

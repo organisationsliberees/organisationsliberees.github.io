@@ -3,7 +3,7 @@ title: "Le management libéré par Marc Dorel"
 date:  2016-01-27 17:05
 layout: post
 category: ["livre"]
-tags: ["Marc Dorel", "Semco", "Favi", "3M", "Harley Davidson", "Chaparral Steel"]
+tags: ["Marc Dorel", "Semco", "Favi", "3M", "Harley-Davidson", "Chaparral Steel"]
 isbn: 978-2370111043
 illustration: /images/978-2370111043.jpg
 ---

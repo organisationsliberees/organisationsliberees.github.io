@@ -4,6 +4,7 @@ date:  2016-01-18 20:55
 layout: post
 category: [outils]
 tags: ["Valve"]
+illustration: /images/guidevalve.jpg
 ---
 
 Valve a publié un guide pour orienter les nouveaux salariés de son entreprise

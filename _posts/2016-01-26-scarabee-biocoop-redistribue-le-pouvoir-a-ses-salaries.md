@@ -4,6 +4,7 @@ date:  2016-01-26 16:54
 layout: post
 category: [article]
 tags: ["Scarabée Biocoop"]
+illustration: /images/collarboratifinfo.jpg
 ---
 
 Un article décrivant l'organisation retenue pour les magasins bios rennais : Scarabée.
