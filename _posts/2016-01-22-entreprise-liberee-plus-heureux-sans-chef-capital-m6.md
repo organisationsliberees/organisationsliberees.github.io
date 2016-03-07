@@ -4,6 +4,7 @@ date:  2016-01-22 17:55
 layout: post
 category: [télévision]
 tags: ["AMI", "Issac Getz", "Acces-sit", "Anaïs Victor", "Michelin"]
+illustration: /images/capital.jpg
 ---
 
 Documentaire de 30 minutes diffusé le  15 novembre 2015 dans l'émission Capital de M6 dédié aux entreprises libérées.

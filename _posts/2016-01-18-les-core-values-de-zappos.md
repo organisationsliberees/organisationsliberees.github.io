@@ -4,6 +4,7 @@ date:  2016-01-18 21:00
 layout: post
 category: ["outils"]
 tags: ["Zappos"]
+illustration: /images/zappos-values.jpg
 ---
 
 Zappos publie sur son site les 10 valeurs clés (*Core Values*) de l'entreprise.
