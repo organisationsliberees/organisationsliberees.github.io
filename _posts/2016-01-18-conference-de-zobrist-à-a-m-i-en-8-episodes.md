@@ -4,6 +4,7 @@ date:  2016-01-18 20:06
 layout: post
 category: [conference]
 tags: ["Favi", "AMI", "Jean-François Zobrist"]
+illustration: /images/J70qXknqkTg.jpg
 ---
 
 Conférence de Jean-François Zobrist, de [Favi](/favi/) à AMI d'une peu plus de deux heures.
