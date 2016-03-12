@@ -4,6 +4,7 @@ date:  2016-01-18 20:41
 layout: post
 category: [article]
 tags: ["Buurtzorg", "Jos de Blok"]
+illustration: /images/buurtzorg-bbc.jpg
 ---
 
 Un portrait de Buurtzorg et Jos de Blok par Eleanor Bradford de BBC Scotland.
