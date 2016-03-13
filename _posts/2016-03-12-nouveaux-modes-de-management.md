@@ -9,3 +9,5 @@ illustration: /images/NakSkVFhL-c.jpg
 ---
 
 Une table ronde d'une heure animée par Renaud Cornu-Emieux sur de nouveaux modes de management avec des membres de Digimind, Sogilis, GEM et Alma qui eu lieu lors de la Conférence Gem Digital Day 2015.
+
+Dominique Steiler y développe ses recherches autour de la « paix économique » et d'« entreprises fleurissantes », et Christophe Baillon le fonctionnement de Sogilis.
