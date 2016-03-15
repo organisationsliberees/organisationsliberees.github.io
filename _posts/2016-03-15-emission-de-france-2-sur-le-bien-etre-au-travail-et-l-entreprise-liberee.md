@@ -3,7 +3,7 @@ title: "Émission de France 2 sur le bien-être au travail et l’entreprise lib
 date:  2016-03-15 10:00
 layout: post
 category: [télévision]
-image: /images/default.jpg
+illustration: /images/default.jpg
 embed_youtube: mPNU2SQMwS4
 tags: ["Issac Getz", "ChronoFlex"]
 ---
