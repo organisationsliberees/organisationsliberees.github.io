@@ -6,7 +6,7 @@ category: ["blog"]
 tags: ["Valve", "Yanis Varoufakis"]
 illustration: /images/valvevaroufakis.jpg
 ---
-## « Ou comment son structure manageuriale s'intègre dans dans le monde actuel des entreprises »
+## « Ou comment sa structure manageuriale s'intègre dans dans le monde actuel des entreprises »
 
 Un article de blog de l'économiste Yanis Varoufakis sur son expérience d'employé de Valve et les leçons économiques qu'il en tire.
 
