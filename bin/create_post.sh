@@ -23,6 +23,8 @@ echo "date:  $DATETIME" >> _posts/$FILENAME"."$EXTENSION
 echo "layout: post" >> _posts/$FILENAME"."$EXTENSION
 echo "category: []" >> _posts/$FILENAME"."$EXTENSION
 echo "tags: []" >> _posts/$FILENAME"."$EXTENSION
+echo "#embed_youtube:" >> _posts/$FILENAME"."$EXTENSION
+echo "#illustration: /images/default.jpg" >> _posts/$FILENAME"."$EXTENSION
 echo "---" >> _posts/$FILENAME"."$EXTENSION
 
 echo _posts/$FILENAME"."$EXTENSION created
