@@ -8,4 +8,4 @@ embed_youtube: xfBIHdl-75s
 illustration: /images/xfBIHdl-75s.jpg
 ---
 
-Une conférence de Stanislas Desjonqueres sur la mise en place d'une organisation « Responsable et Agile » au sein de son entreprise pharmaceutique, Biose.
+Une conférence de Stanislas Desjonqueres sur la migration entreprise pharmaceutique, Biose, en une « Société À Responsabilité Augmentée ».
