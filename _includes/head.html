@@ -6,4 +6,14 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    {% if page.illustration %}
+    <meta name="twitter:card" content="photo" />
+    <meta name="twitter:site" content="@orgasliberees" />
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ page.illustration }}" />
+    <meta name="twitter:url" content="{{ site.url }}{{page.url}}" />
+    {% endif %}
+    <meta name="msapplication-TileImage" content="/images/favico.png"/>
+    <link rel="mask-icon" sizes="any" href="/images/favico.png">
+    <link href="/images/favico.png" rel="shortcut icon" type="image/png">
 </head>
