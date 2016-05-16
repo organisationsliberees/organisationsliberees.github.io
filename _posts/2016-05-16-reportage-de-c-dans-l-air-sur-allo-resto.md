@@ -6,6 +6,7 @@ category: ["reportage"]
 tags: ["Allo resto", "Great Place to Work"]
 embed_youtube: ze5sZnp6T0w
 illustration: /images/ze5sZnp6T0w.jpg
+youtube_start: 2650
 ---
 
 Reportage diffusé dans l'émission « C dans l'air » sur l'entreprise de livraison de repas « Allo resto ». La réaction de Serge Volkoff est particulièrement éclairrante sur la mise en place d'un collectif de travail et de politiques de sens au sein des entreprises.
