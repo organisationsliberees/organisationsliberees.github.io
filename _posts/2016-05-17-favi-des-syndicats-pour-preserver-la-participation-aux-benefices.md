@@ -8,6 +8,6 @@ tags: ["Favi", "Jean-François Zobrist"]
 illustration: /images/FAVI-cfdt.jpg
 ---
 
-Pour la première fois depuis les années 80, l'entreprise FAVI a vu un syndicat élu lors des élections du personnel, la CFTC. Quelques mois plus tard, ce syndicat publie un communiqué pointant le changement de politique en matière de participation aux bénéfices pourtant centrale dans la politique mise en place notamment par Jean-François Zobrist depuis les années 80.
+Pour la première fois depuis les années 80, l'entreprise FAVI a vu un syndicat élu lors des élections du personnel, la CFTC. Quelques mois plus tard, ce syndicat publie un communiqué pointant le changement de politique en matière de participation aux bénéfices pourtant centrale dans la politique mise en place notamment par Jean-François Zobrist il y a 30 ans.
 
 [Lire le communiqué](https://cftc-picardie.com/2016/04/11/favi-quelle-participation-aux-benefices/)
