@@ -3,7 +3,7 @@ title: "Entreprise libérée : plus heureux sans chef ? (Capital, M6)"
 date:  2016-01-22 17:55
 layout: post
 category: [télévision]
-tags: ["AMI", "Issac Getz", "Acces-sit", "Anaïs Victor", "Michelin"]
+tags: ["AMI", "Isaac Getz", "Acces-sit", "Anaïs Victor", "Michelin"]
 illustration: /images/capital.jpg
 ---
 

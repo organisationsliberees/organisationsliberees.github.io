@@ -5,7 +5,7 @@ layout: post
 category: [conférence]
 embed_youtube: 289lwrW_gP0
 illustration: /images/289lwrW_gP0.jpg
-tags: ["Ludovic Cinquin", "OCTO Technology", "Morning Star", "Zappos", "Netflix", "Issac Getz", Favi, "Gore", "Chrono Flex", Poult, Semco, "Health Care"]
+tags: ["Ludovic Cinquin", "OCTO Technology", "Morning Star", "Zappos", "Netflix", "Isaac Getz", Favi, "Gore", "Chrono Flex", Poult, Semco, "Health Care"]
 ---
 
 

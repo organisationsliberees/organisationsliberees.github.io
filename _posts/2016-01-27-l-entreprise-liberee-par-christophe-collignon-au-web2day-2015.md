@@ -5,9 +5,9 @@ layout: post
 category: [conference]
 embed_youtube: QtMxxcKVx5Y
 illustration: /images/QtMxxcKVx5Y.jpg
-tags: ["Issac Getz", "Christophe Collignon", "IMA Technologies", "Lippi", Favi, Poult, "Nordstrom"]
+tags: ["Isaac Getz", "Christophe Collignon", "IMA Technologies", "Lippi", Favi, Poult, "Nordstrom"]
 ---
 
 
 
-Conférence de Christophe Collignon présentant les évolutions manageuriales au sein de IMA Technologies. Son discours a été très inspiré par Issac Getz.
+Conférence de Christophe Collignon présentant les évolutions manageuriales au sein de IMA Technologies. Son discours a été très inspiré par Isaac Getz.

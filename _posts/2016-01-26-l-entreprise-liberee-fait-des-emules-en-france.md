@@ -3,7 +3,7 @@ title: "L'« entreprise libérée » fait des émules en France"
 date:  2016-01-26 18:55
 layout: post
 category: [article]
-tags: ["Poult", "ChronoFlex", "Zappos", "Lippi", "Favi", "Auchan", "Issac Getz"]
+tags: ["Poult", "ChronoFlex", "Zappos", "Lippi", "Favi", "Auchan", "Isaac Getz"]
 illustration: /images/entrepriseliberee-lemonde.jpg
 ---
 

@@ -5,9 +5,7 @@ layout: post
 category: [conference]
 embed_youtube: 9oZUMzQDaw8
 illustration: /images/9oZUMzQDaw8.jpg
-tags: ["Issac Getz", "Liberté & Cie"]
+tags: ["Isaac Getz", "Liberté & Cie"]
 ---
-
-
 
 Conférence de 20 minutes d'Isaac Getz à propos de son livre "Liberté & Cie"

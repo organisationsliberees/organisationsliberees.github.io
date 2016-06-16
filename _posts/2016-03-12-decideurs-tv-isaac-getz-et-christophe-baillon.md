@@ -8,4 +8,4 @@ embed_youtube: wVP8IinYZEE
 illustration: /images/wVP8IinYZEE.jpg
 ---
 
-Une interview menée par Pierre Chavanne, Décideurs TV, de Christophe Baillon de Sogilis et d'Issac Getz de l'ESCP Europe.
+Une interview menée par Pierre Chavanne, Décideurs TV, de Christophe Baillon de Sogilis et d'Isaac Getz de l'ESCP Europe.
