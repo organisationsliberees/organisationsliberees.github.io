@@ -7,7 +7,7 @@ tags: ["Gore", "Jean-François Zobrist", "Favi", "Bob Davies", "Sea Smoke Cellar
 illustration: /images/lesechos-lacherprise.jpg
 ---
 
-Un article des Echos sur le contenu des livres d'[Issac Getz](/issac-getz/) et de [Gary Hamel](/gary-haml/).
+Un article des Echos sur le contenu des livres d'[Isaac Getz](/isaac-getz/) et de [Gary Hamel](/gary-haml/).
 
 [Lire l'article des Échos](http://archives.lesechos.fr/archives/cercle/2012/12/10/cercle_60637.htm)
 
