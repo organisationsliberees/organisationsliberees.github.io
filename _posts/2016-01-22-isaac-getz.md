@@ -4,7 +4,7 @@ date:  2016-01-22 17:19
 layout: post
 category: [personnalité]
 tags: ["Liberté & Cie"]
-tagid: "Issac Getz"
+tagid: "Isaac Getz"
 redirect_from: /isaac-getz/
 illustration: /images/isaac-getz.jpg
 ---
