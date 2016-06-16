@@ -2,7 +2,7 @@
 title: "Clinique Pasteur"
 date:  2016-06-16 12:13
 layout: post
-#category: ["Entreprise"]
+category: ["Entreprise"]
 tags: ["Dominique Pon"]
 tagid: "Clinique Pasteur"
 #embed_youtube:
