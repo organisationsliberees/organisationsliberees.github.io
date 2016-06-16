@@ -1,5 +1,5 @@
 ---
-title: Issac Getz à TEDx Saint Sauveur
+title: Isaac Getz à TEDx Saint Sauveur
 date:  2016-01-18 20:09
 layout: post
 category: [conference]
@@ -10,4 +10,4 @@ tags: ["Issac Getz", "Liberté & Cie"]
 
 
 
-Conférence de 20 minutes d'Issac Getz à propos de son livre "Liberté & Cie"
+Conférence de 20 minutes d'Isaac Getz à propos de son livre "Liberté & Cie"
