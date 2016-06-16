@@ -24,8 +24,7 @@ layout: default
   <h2>Aller plus loin :</h2>
   <ul class="visuposts">
   {% for post in site.posts %}
-  {% for tag in post.tags %}
-  {% if tag == page.tagid %}
+  {% if post.tags contains page.tagid or page.tags contains post.tagid  %}
     {% if post.illustration %}
     {% assign illustration = (post.illustration) %}
     {% else %}
@@ -33,7 +32,6 @@ layout: default
     {% endif %}
       <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ illustration | replace : '.', '.square.' }}" alt="{{ post.title }}"/><span class="title">{{ post.title }}</span><span class="categories">{{post.categories}}</span></a></li>
   {% endif %}
-  {% endfor %}
   {% endfor %}
   </ul>
   {% else %}
