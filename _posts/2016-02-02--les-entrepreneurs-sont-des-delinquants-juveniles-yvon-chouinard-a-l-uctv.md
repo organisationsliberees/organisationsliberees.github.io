@@ -1,5 +1,5 @@
 ---
-title: "« Les entrepreneurs sont des délinquants juvéniles » Yvon Chouinard à l'UCTV"
+title: "« Les entrepreneurs : des délinquants juvéniles » Yvon Chouinard à l'UCTV"
 date:  2016-02-02 20:13
 layout: post
 category: [conférence]
