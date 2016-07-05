@@ -8,7 +8,7 @@ tagid: "Sew Usocome"
 illustration: /images/SEW-USOCOME.jpg
 ---
 
-Sew Usocome est la filiale français d'un fabriquant allemand de solutions d’entraînement et d’automatisme. Elle employait 1712 collaborateurs en France.
+Sew Usocome est la filiale français d'un fabriquant allemand de solutions d’entraînement et d’automatisme. Elle emploie 2100 collaborateurs en France, en 2016.
 
 [Consulter le site de Sew Usocome](http://www.usocome.com/)
 
