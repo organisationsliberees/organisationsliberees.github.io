@@ -5,7 +5,7 @@ layout: post
 category: ["vidéo"]
 embed_youtube: NIapZ61H-N0
 illustration: /images/NIapZ61H-N0.jpg
-tags: ["Chrono Flex", "Alexandre Gérard"]
+tags: ["ChronoFlex", "Alexandre Gérard"]
 ---
 
 

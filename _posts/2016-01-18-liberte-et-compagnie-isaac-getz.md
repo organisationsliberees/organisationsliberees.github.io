@@ -3,7 +3,7 @@ title: Liberté & Cie - Isaac Getz
 date:  2016-01-18 18:01
 layout: post
 category: [livre]
-tags: ["Isaac Getz", "Favi", "Gore", "USAA", "Harley-Davidson", "Richards Group", "Sea Smoke Cellars", "Sun Hidraulics", "Université de Virgine", "SOL", "Oticon", "GSI", "QuadGraphics", "IDEO", "Sew Usocome", "Southwest Airlines", "Chaparral Steel"]
+tags: ["Isaac Getz", "Favi", "Gore", "USAA", "Harley-Davidson", "Richards Group", "Sea Smoke Cellars", "Sun Hydraulics", "Université de Virgine", "SOL", "Oticon", "GSI", "QuadGraphics", "IDEO", "Sew Usocome", "Southwest Airlines", "Chaparral Steel"]
 isbn: 978-2081379510
 illustration: /images/978-2081379510.jpg
 tagid: "Liberté & Cie"

@@ -3,7 +3,7 @@ title: "Cours en ligne sur l'innovation managériale"
 date:  2016-03-23 23:23
 layout: post
 category: ["Cours"]
-tags: ["Poult", "Ministère de la Sécurité sociale belge", "Biose", "Teractem", "Christophe Collignon", "IMA Technologies", "Laurence Vanhée", "Carlos Verkaeren", "Alexandre girard", "Michel Hervé"]
+tags: ["Poult", "Ministère de la Sécurité sociale belge", "Biose", "Teractem", "Christophe Collignon", "IMA Technologies", "Laurence Vanhée", "Carlos Verkaeren", "Alexandre Gérard", "Michel Hervé"]
 tagid: "Mooc Innovation Managériale"
 embed_youtube: 9SkusbeGw9M
 illustration: /images/mooc-innovanag.jpg

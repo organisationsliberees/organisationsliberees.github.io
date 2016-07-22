@@ -3,7 +3,7 @@ title: Companies without Managers - Un sujet de BBC4
 date:  2016-01-18 19:44
 layout: post
 category: [radio]
-tags: ["Frédéric Laloux", "Gary Hamel", "Buurtzog", "Morning Star"]
+tags: ["Frédéric Laloux", "Gary Hamel", "Buurtzorg", "Morning Star"]
 illustration: /images/bbc-companies-without-managers.jpg
 ---
 
