@@ -3,7 +3,7 @@ title: "Reportage de C dans l'air sur Allo Resto"
 date:  2016-05-16 16:00
 layout: post
 category: ["reportage"]
-tags: ["Allo resto", "Great Place to Work"]
+tags: ["Allo Resto", "Great Place to Work"]
 embed_youtube: ze5sZnp6T0w
 illustration: /images/ze5sZnp6T0w.jpg
 youtube_start: 2650
