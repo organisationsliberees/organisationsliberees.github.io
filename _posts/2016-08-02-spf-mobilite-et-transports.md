@@ -2,7 +2,7 @@
 title: "SPF Mobilité et Transports"
 date:  2016-08-02 11:33
 layout: post
-category: ["Entreprise"]
+category: ["entreprise"]
 tagid: "SPF Mobilité et Transports"
 #embed_youtube:
 illustration: /images/spfmobilitetransport.jpg
