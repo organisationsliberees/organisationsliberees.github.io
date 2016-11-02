@@ -9,6 +9,6 @@ illustration: /images/201611_entreprisesliberees.jpg
 ---
 Une bande desssinée sur de Benoist Simmat et Philippe Bercovici éditée aux éditions Les Arènes.
 
-Un couple d'entrepreneurs découvre le fonctionnement d'entreprises à l'organisation « libérée ». Ils rencontrent un grand nombre des acteurs francophones de cette communauté en rendant visite à ChronoFlex/Inov-on, ImaTech, FAVI, ... La bande dessinée parle également des expériences américaines comme XXXX.
+Un couple d'entrepreneurs découvre le fonctionnement d'entreprises à l'organisation « libérée ». Ils rencontrent un grand nombre des acteurs francophones de cette communauté en rendant visite à ChronoFlex/Inov-on, ImaTech, FAVI, ... La bande dessinée parle également des expériences américaines comme USAA, Harley-Davidson ou Gore.
 
 La découverte est didactique et les principaux concepts mis en place dans les organisation libérées sont bien vulgarisés.
