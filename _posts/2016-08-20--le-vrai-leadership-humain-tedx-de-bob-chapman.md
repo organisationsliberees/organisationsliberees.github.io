@@ -8,4 +8,4 @@ embed_youtube: njn-lIEv1LU
 illustration: /images/njn-lIEv1LU.jpg
 ---
 
-La conférence de Bob Chapman, le CEO de Barry-Wehmiller Companies, sur sa manière de gérer son entreprise dont la priorité est de « "produire" de collaborateurs géniaux ».
+La conférence de Bob Chapman, le CEO de Barry-Wehmiller Companies, sur sa manière de gérer son entreprise dont la priorité est de « "produire" de collaborateurs géniaux » via le « Centric Leadership » et l'amélioration continue.
