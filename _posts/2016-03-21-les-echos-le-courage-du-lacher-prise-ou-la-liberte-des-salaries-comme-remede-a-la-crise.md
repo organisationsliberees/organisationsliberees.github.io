@@ -3,7 +3,7 @@ title: "Les Echos : Le courage du « lâcher-prise » ou la liberté des salari�
 date:  2016-03-21 11:43
 layout: post
 category: [Article]
-tags: ["Gore", "Jean-François Zobrist", "Favi", "Bob Davies", "Sea Smoke Cellars", "Seventh Generation", "Saatchi & Saatchi", "Lippi", "Isaac Getz", "Gary Hamel", "La fin du management"]
+tags: ["Gore", "Jean-François Zobrist", "Favi", "Bob Davids", "Sea Smoke Cellars", "Seventh Generation", "Saatchi & Saatchi", "Lippi", "Isaac Getz", "Gary Hamel", "La fin du management"]
 illustration: /images/lesechos-lacherprise.jpg
 ---
 

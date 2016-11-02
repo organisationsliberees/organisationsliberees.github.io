@@ -5,9 +5,9 @@ layout: post
 category: [conference]
 embed_youtube: 11zNPyoEUdQ
 illustration: /images/11zNPyoEUdQ.jpg
-tags: ["Michel Munzenhuter", "Sew Usocome"]
+tags: ["Michel Munzenhuter", "SEW-Usocome"]
 ---
 
 
 
-Conférence de Michel Munzenhuter d'une heure sur l'expérience Sew Usocome.
+Conférence de Michel Munzenhuter d'une heure sur l'expérience SEW-Usocome.

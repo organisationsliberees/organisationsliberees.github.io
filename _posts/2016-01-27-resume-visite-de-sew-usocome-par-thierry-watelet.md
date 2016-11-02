@@ -5,9 +5,7 @@ layout: post
 category: ["vidéo"]
 embed_youtube: rOgKQRAlbDc
 illustration: /images/rOgKQRAlbDc.jpg
-tags: ["Sew Usocome", "Thierry Watelet"]
+tags: ["SEW-Usocome", "Thierry Watelet"]
 ---
 
-
-
-L'association APM a organisé une journée de visite de Sew Usocome. Elle est résumée dans cette vidéo de 2 minutes par Thierry Watelet.
+L'association APM a organisé une journée de visite de SEW-Usocome. Elle est résumée dans cette vidéo de 2 minutes par Thierry Watelet.

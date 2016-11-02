@@ -3,7 +3,7 @@ title: Frédéric Laloux
 date:  2016-01-19 12:17
 layout: post
 category: [personnalité]
-tags: ["Reinventing organization"]
+tags: ["Reinventing organizations"]
 tagid: "Frédéric Laloux"
 redirect_from: /frederic-laloux/
 illustration: /images/laloux.jpg
