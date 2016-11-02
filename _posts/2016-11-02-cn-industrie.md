@@ -6,7 +6,7 @@ category: ["entreprise"]
 tags: ["Clément Neyrial"]
 tagid: "CN Industrie"
 #embed_youtube:
-illustration: /images/cn-industrie.png
+illustration: /images/cn-industrie.jpg
 ---
 
 CN Industrie est le leader européen du doming, une méthode de plastification de 2 mm de supports imprimés notamment les logos, pour leur donner un effet 3D.

@@ -6,7 +6,7 @@ category: ["entreprise"]
 tags: []
 tagid: "Bretagne Atelier"
 #embed_youtube:
-illustration: /images/bretagneatelier.png
+illustration: /images/bretagneatelier.jpg
 ---
 
 Cette entreprise de 500 employés donc plus de 400 travailleurs handicapés est spécialisée dans le secteur industriel (montage de pièces automobiles, transports, dématérialisation, ...). A travers son projet CRISTAL, elle a mis en place un management participatif et social. Elle réalise 21 millions d'euros de chiffre d'affaire.
