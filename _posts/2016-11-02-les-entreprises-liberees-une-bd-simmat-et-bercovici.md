@@ -7,7 +7,7 @@ tags: ["Isaac Getz", "ChronoFlex", "Favi", "IMA Technologies", "Alexandre Gérar
 #embed_youtube:
 illustration: /images/201611_entreprisesliberees.jpg
 ---
-Les éditions Les arènes ont publié une bande desssinée de Benoist Simmat et Philippe Bercovici sur les entreprises libérées.
+Benoist Simmat et Philippe Bercovici signent une bande desssinée de sur les entreprises libérées aux éditions Les arènes.
 
 Un couple d'entrepreneurs découvre le fonctionnement d'entreprises à l'organisation « libérée ». Ils rencontrent un grand nombre des acteurs francophones de cette communauté en rendant visite à ChronoFlex/Inov-on, ImaTech, FAVI, ... La bande dessinée parle également des expériences américaines comme USAA, Harley-Davidson ou Gore.
 
