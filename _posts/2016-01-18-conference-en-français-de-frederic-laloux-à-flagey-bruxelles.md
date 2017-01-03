@@ -5,7 +5,7 @@ layout: post
 category: [conference]
 embed_youtube: NZKqPoQiaDE
 illustration: /images/NZKqPoQiaDE.jpg
-tags: ["Frédéric Laloux", "Reinventing organizations", "Buurtzorg"]
+tags: ["Frédéric Laloux", "Reinventing organizations", "Buurtzorg", "Favi", "Morning Star", "Sun Hydraulics", "Patagonia"]
 ---
 
 
