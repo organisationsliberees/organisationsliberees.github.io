@@ -2,7 +2,7 @@
 title: "Sea Smoke Cellars"
 date:  2016-06-16 12:35
 layout: post
-category: ["Entreprise"]
+category: ["entreprise"]
 tags: ["Bob Davids"]
 tagid: "Sea Smoke Cellars"
 #embed_youtube:
