@@ -5,6 +5,7 @@ layout: post
 category: [film]
 tags: ["Favi", "Ministère de la Sécurité sociale belge", "Harley-Davidson", "Poult"]
 illustration: /images/bonheurautravail.jpg
+tagid: "Bonheur au Travail"
 ---
 
 Documentaire diffusé sur Arte le 24 février 2014 qui a participé à faire connaitre les organisations libérées en France.
