@@ -2,7 +2,7 @@
 title: "L'entreprise libérée - RIPCO"
 date:  2018-02-18 17:48
 layout: post
-category: ["Revue"]
+category: [livre]
 tags: ["Favi", "Poult", "Buurtzorg", "Isaac Getz", "le Cedre", "Biose", "Pocheco", "groupe Hervé", "Michel Hervé", "ChronoFlex", "Semco"]
 #embed_youtube:
 illustration: /images/EL-ESKA.jpg
