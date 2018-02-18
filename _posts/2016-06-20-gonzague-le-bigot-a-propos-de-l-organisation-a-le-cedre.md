@@ -3,7 +3,7 @@ title: "Gonzague Le Bigot à propos de l'organisation à Le Cèdre"
 date:  2016-06-20 20:07
 layout: post
 category: ["interview"]
-tags: ["Le cèdre"]
+tags: ["Le Cèdre"]
 embed_youtube: xGklCZWX_Ic
 illustration: /images/xGklCZWX_Ic.jpg
 ---
