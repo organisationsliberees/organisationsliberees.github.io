@@ -4,6 +4,7 @@ date:  2016-01-18 18:51
 layout: post
 category: [livre]
 tags: ["Laurence Vanhée", "Ministère de la Sécurité sociale belge"]
+tagid: "Happy RH"
 isbn: 978-2874033148
 illustration: /images/978-2874033148.jpg
 ---
