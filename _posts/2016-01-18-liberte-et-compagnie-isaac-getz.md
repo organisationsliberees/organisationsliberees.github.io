@@ -8,7 +8,7 @@ isbn: 978-2081379510
 illustration: /images/978-2081379510.jpg
 tagid: "Liberté & Cie"
 ---
-##Quand la liberté des salariés fait le succès des entreprises
+## Quand la liberté des salariés fait le succès des entreprises
 
 Ce livre d'Isaac Getz et Brian M. Carney a été édité aux États-unis en 2009 chez Crown Business sous le titre *Free Yours Employees and Let Them Lead Your Business to Heugher Productivity, Profils and Growth* puis tranduit en français en 2012.
 
