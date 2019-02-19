@@ -4,6 +4,7 @@ date:  2016-01-18 19:21
 layout: post
 category: [livre]
 tags: ["Vineet Nayar", "HCL Technologies"]
+tagid: "employes d'abord"
 isbn: 978-2354560317
 illustration: /images/978-2354560317.jpg
 ---
