@@ -3,7 +3,7 @@ title: "retour d'expérience de ae&t à l'IAE de Pau"
 date:  2019-02-19 00:41
 layout: post
 category: ["conférence"]
-tags: ["AE&T", "Claude Andrieux", "Scrum in action", "Claude Aubry", "employes d'abord", "Liberté & Cie", "Bonheur au Travail"]
+tags: ["AE&T", "Claude Andrieux", "Scrum in action", "Claude Aubry", "employes d'abord", "Liberté & Cie", "Bonheur au Travail", "Michelin", "Gore"]
 embed_youtube: IAYyidxCC9M
 illustration: /images/IAYyidxCC9M.jpg
 ---
@@ -33,3 +33,15 @@ Lors de son intervention, Denis Benoist évoque :
  - Teemood ? (logiciel)
  - Communication Non Violente
 
+Pendant ses interventions et les questions, Claude Andrieux parle de :
+
+ - l'adoption par les salariés aux valeurs de l'intelligence collective à travers la signature d'une charte
+ - la délégation vers le bas
+ - le passage du "mode controle" vers le "mode autonomisation"
+ - l'abandon du "mode plan" (planification) au profit du "mode faire et expérimentation", ce qui passe par l'abandon des objectifs (annuels, mensuels, ...)
+ - la transparence (notamment financière, « beaucoup plus efficace pour lutter contre la triche que les procédures de controle »)
+ - l'importance de la confiance, de « se faire confiance »
+ - la notion d'égalité intrinsèque
+ - l'auto-organisation
+ - le droit à l'erreur
+ - le départ du "leader libérateur"
