@@ -10,7 +10,7 @@ permalink: /archives/
   <ul class="visuposts">
     {% for post in site.posts %}
     {% if post.illustration %}
-    {% assign illustration = (post.illustration) %}
+    {% assign illustration = post.illustration %}
     {% else %}
     {% assign illustration = "/images/default.jpg" %}
     {% endif %}

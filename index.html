@@ -9,11 +9,11 @@ layout: default
   <p>Ce site tente de référencer la diversité de ces organisations (entreprises, associations, coopératives, institutions, ...) à travers des exemples permettant de comprendre comment elles sont structurées.</p>
   <h2>Les organisations repérées&nbsp;:</h2>
   <ul class="visuposts">
-{% assign sorted_pages = (site.posts | sort: 'title') %}
+{% assign sorted_pages = site.posts | sort: 'title' %}
     {% for post in sorted_pages %}
     {% if post.categories contains "entreprise" %}
     {% if post.illustration %}
-    {% assign illustration = (post.illustration) %}
+    {% assign illustration = post.illustration %}
     {% else %}
     {% assign illustration = "/images/default.jpg" %}
     {% endif %}
@@ -25,7 +25,7 @@ layout: default
     {% for post in site.posts %}
     {% if post.categories contains "personnalité" %}
     {% if post.illustration %}
-    {% assign illustration = (post.illustration) %}
+    {% assign illustration = post.illustration %}
     {% else %}
     {% assign illustration = "/images/default.jpg" %}
     {% endif %}
@@ -37,7 +37,7 @@ layout: default
     {% for post in site.posts %}
     {% if post.categories contains "livre" %}
     {% if post.illustration %}
-    {% assign illustration = (post.illustration) %}
+    {% assign illustration = post.illustration %}
     {% else %}
     {% assign illustration = "/images/default.jpg" %}
     {% endif %}
@@ -48,7 +48,7 @@ layout: default
   <ul class="visuposts">
     {% for post in site.posts limit:8 %}{% unless post.categories contains "entreprise" %}{% unless post.categories contains "personnalité" %}
     {% if post.illustration %}
-    {% assign illustration = (post.illustration) %}
+    {% assign illustration = post.illustration %}
     {% else %}
     {% assign illustration = "/images/default.jpg" %}
     {% endif %}

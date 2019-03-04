@@ -26,7 +26,7 @@ layout: default
   {% for post in site.posts %}
   {% if post.tags contains page.tagid or page.tags contains post.tagid  %}
     {% if post.illustration %}
-    {% assign illustration = (post.illustration) %}
+    {% assign illustration = post.illustration %}
     {% else %}
     {% assign illustration = "/images/default.jpg" %}
     {% endif %}
@@ -40,7 +40,7 @@ layout: default
     {% for post in site.posts %}
     {% if post.tagid %}{% if page.tags contains post.tagid %}
       {% if post.illustration %}
-      {% assign illustration = (post.illustration) %}
+      {% assign illustration = post.illustration %}
       {% else %}
       {% assign illustration = "/images/default.jpg" %}
       {% endif %}
