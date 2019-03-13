@@ -3,7 +3,7 @@ title: "Semaweb : sa transformation en SCOP et son organisation libérée"
 date:  2019-03-04 12:09
 layout: post
 category: ["interview"]
-tags: ["Semaweb", "Automatisme et industrie", "SCOP", "Simone Weil"]
+tags: ["Semaweb", "Automatisme & industrie", "SCOP", "Simone Weil"]
 #embed_youtube:
 illustration: /images/20181108_RCF_Semaweb.jpg
 ---
