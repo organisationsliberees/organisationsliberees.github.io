@@ -7,4 +7,4 @@ tags: ["Julie Legout", "LinkValue", "Stéphane Rios", "Fasterize", "François Ge
 embed_youtube: 2K8-HCZMgek
 illustration: /images/2K8-HCZMgek.jpg
 ---
-Débat réunissant deux fondateurs d'entreprises libérées (Stéphane Rios de Fasterize et Jérémie Bataille de FlexJob)  et deux anti-entreprises libérées (Alain D'Iribarne, sociologue du travail et François Geuze, consultant RH). Il est animé par Julie Legout, salariée de LinkValue.
+Débat réunissant deux fondateurs d'entreprises libérées (Stéphane Rios de Fasterize et Jérémie Bataille de FlexJob)  et deux anti-entreprises libérées (Alain D'Iribarne, sociologue du travail et François Geuze, auditeur social). Il est animé par Julie Legout, salariée de LinkValue.
