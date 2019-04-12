@@ -1,10 +1,10 @@
 ---
-title: "360Learning"
+title: "Trois cent soixante Learning"
 date:  2017-09-13 22:53
 layout: post
 category: ["entreprise"]
 tags: []
-tagid: 360Learning
+tagid: TroisCentSoixaineLearning
 #embed_youtube:
 illustration: /images/360learning.jpg
 ---

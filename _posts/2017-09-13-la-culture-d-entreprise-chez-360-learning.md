@@ -3,7 +3,7 @@ title: "La culture d'entreprise chez 360 Learning"
 date:  2017-09-13 22:02
 layout: post
 category: ["vidéo"]
-tags: ["360Learning", "Nicolas Hernandez"]
+tags: ["TroisCentSoixaineLearning", "Nicolas Hernandez"]
 embed_youtube: zdKLv-gVGoc
 illustration: /images/zdKLv-gVGoc.jpg
 ---
