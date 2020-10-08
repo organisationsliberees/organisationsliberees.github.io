@@ -4,6 +4,7 @@ date:  2016-01-18 19:01
 layout: post
 category: ["livre"]
 tags: ["Jean-François Zobrist", "Favi"]
+tagid: "La belle histoire de Favi"
 isbn: 978-2917587003
 illustration: /images/978-2917587003.jpg
 ---
