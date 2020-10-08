@@ -9,3 +9,5 @@ illustration: /images/EntrepriseLibereeZobrist.jpg
 ---
 
 Ce livre de Jean-François Zobrist est une réécriture à la troisième personne des deux tomes précédents du patron emblématique de FAVI : La belle histoire de FAVI.
+
+Contrairement à ses opus précédents, Zobrist décrit l'organisation qu'il a mis en place au sein de Favi comme une organisation « libertaire ».
