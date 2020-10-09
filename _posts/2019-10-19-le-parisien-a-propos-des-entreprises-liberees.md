@@ -3,7 +3,7 @@ title: "Le parisien à propos des entreprises libérées"
 date:  2019-10-19 23:18
 layout: post
 category: ["article"]
-tags: ["Isaac Getz", "AMI2", "Karine Warin", "Alexandre Gérard", "ChronoFlex", "Scarabée Biocoop", "Hugo Mouraret"]
+tags: ["Isaac Getz", "Liberté & Cie", "AMI2", "Alexandre Gérard", "ChronoFlex", "Scarabée Biocoop", "iGi Partners", "Jean-Christian Fauvet", "Reinventing organizations", "Frédéric Laloux"]
 #embed_youtube:
 illustration: /images/201901_leparisien.jpg
 ---
