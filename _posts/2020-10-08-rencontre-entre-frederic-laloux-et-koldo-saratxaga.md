@@ -3,7 +3,7 @@ title: "Rencontre entre Frédéric Laloux et Koldo Saratxaga (es)"
 date:  2020-10-08 19:30
 layout: post
 category: ["table ronde"]
-tags: ["Frédéric Laloux", "Koldo Saratxaga", "Reinventing organizations", "Irizar", "Buurtzorg", "Heilligenfeld", "Sounds True", "Ricardo Semler", "Semco", "Ministère de la Sécurité sociale belge"]
+tags: ["Frédéric Laloux", "Koldo Saratxaga", "Reinventing organizations", "Irizar", "Buurtzorg", "Heilligenfeld", "Sounds True", "Ricardo Semler", "Semco", "Ministère de la Sécurité sociale belge", "Nearsoft"]
 embed_youtube: xhzZ3AvDDoc
 illustration: /images/xhzZ3AvDDoc.jpg
 ---
@@ -13,7 +13,7 @@ Frédéric Laloux débute en racontant la genèse son projet Reinventing organiz
 
 Koldo Saratxaga revient sur son expérience au sein de Irizar de créer des équipes auto-gérées et de l'importance de se défaire de la culture du controle mais également de son expérience d'avoir pu acccompagner beaucoup d'entreprises (ou d'institutions publiques) vers de formes d'organisations auto-gérées.
 
-Ana Moreno parle de son enthousiasme des intérêts portés sur les organisations auto-gérées, de la manière dont ses étudiants s'approprient les savoirs autour des nouvelles manières de management et les cas d'entreprises qu'elle a pu étudier (Neosoft, )
+Ana Moreno parle de son enthousiasme des intérêts portés sur les organisations auto-gérées, de la manière dont ses étudiants s'approprient les savoirs autour des nouvelles manières de management et les cas d'entreprises qu'elle a pu étudier (Nearsoft, ....)
 
 Laloux revient sur le malentendu lié à la mise en valeur de l'horizontalité qui sous-entend que les salariés ne peuvent plus évoluer, alors que pour les organisations auto-gérées permettent aux salariés de s'élever, d'entreprendre ce qu'ils pensent juste pour leur employeur.
 

@@ -3,7 +3,7 @@ title: "Corporate Rebels"
 date:  2020-10-08 18:18
 layout: post
 category: ["livre"]
-tags: ["Ricardo Semler", "Semco", "Dan Pink", "Drive", "Patagonia", "Yvon Chouinard", "David Graeber", "Zappos", "Tony's Chocolonely", "Beetroot", "Hollands Kroon", "Spotify", "Southwest Airline", "Haier", "Petter Drucker", "Gary Hamel", "La fin du management", "Svenska Handelsbanken", "Ari Weinzweig", "Zingerman's", "Paul Saginew", "UKTV", "Tom Peters", "Frédéric Laloux", "Issac Getz", "Kees Pater", "Veldt", "Favi", "Jean-François Zobrist", "Vagas.com", "Haufe Umantis", "K2K Emocionando", "Koldo Saratxaga", "Irizar"]
+tags: ["Ricardo Semler", "Semco", "Dan Pink", "Drive", "Patagonia", "Yvon Chouinard", "David Graeber", "Zappos", "Tony's Chocolonely", "Beetroot", "Hollands Kroon", "Spotify", "Southwest Airline", "Haier", "Petter Drucker", "Gary Hamel", "La fin du management", "Svenska Handelsbanken", "Ari Weinzweig", "Zingerman's", "Paul Saginew", "UKTV", "Tom Peters", "Frédéric Laloux", "Issac Getz", "Kees Pater", "Veldt", "Favi", "Jean-François Zobrist", "Vagas.com", "Haufe Umantis", "K2K Emocionando", "Koldo Saratxaga", "Irizar", "Ministère de la Sécurité sociale belge", "Frank Van Massenhove", "BVdV"]
 #embed_youtube:
 illustration: /images/CorporateRebels.jpg
 ---
