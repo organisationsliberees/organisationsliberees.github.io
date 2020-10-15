@@ -3,7 +3,7 @@ title: "Rencontre entre Frédéric Laloux et Koldo Saratxaga (es)"
 date:  2020-10-08 19:30
 layout: post
 category: ["table ronde"]
-tags: ["Frédéric Laloux", "Koldo Saratxaga", "Reinventing organizations", "Irizar", "Buurtzorg", "Heilligenfeld", "Sounds True", "Ricardo Semler", "Semco", "Ministère de la Sécurité sociale belge", "Nearsoft"]
+tags: ["Frédéric Laloux", "Koldo Saratxaga", "Reinventing organizations", "Irizar", "Buurtzorg", "Heilligenfeld", "Sounds True", "Ricardo Semler", "Semco", "Ministère de la Sécurité sociale belge", "Nearsoft", "K2K Emocionando"]
 embed_youtube: xhzZ3AvDDoc
 illustration: /images/xhzZ3AvDDoc.jpg
 ---
