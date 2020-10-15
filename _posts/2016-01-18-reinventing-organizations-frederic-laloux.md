@@ -8,7 +8,7 @@ tagid: "Reinventing organizations"
 isbn: 978-2354561055
 illustration: /images/978-2354561055.jpg
 ---
-##Vers des communautés de travail inspirées
+## Vers des communautés de travail inspirées
 
 Publié en anglais en février 2014 et traduit en Français en octobre 2015, ce livre de Frédéric Laloux expose sous une forme très structuré les différents aspects des entreprises libérées qu'il nomme « organisations opales ».
 
