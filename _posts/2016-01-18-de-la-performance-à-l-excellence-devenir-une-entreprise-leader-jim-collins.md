@@ -8,7 +8,7 @@ isbn: 978-2744065651
 illustration: /images/978-2744065651.jpg
 tagid: "Good to Great"
 ---
-##Devenir une entreprise leader
+## Devenir une entreprise leader
 
 Publié en 2001 sous le titre *Good to Great*, ce livre, érigé au status de bible dans les écoles de commerce, se base sur l'étude du 10aine d'entreprises ayant eu pendant plus de 15 des succès commerciaux hors du commun (en se basant les résultats boursier de ces entreprises). L'auteur et son équipe a cherché les critères qui différentiaient dans leur organisation ces entreprises de leurs concurrents.
 
