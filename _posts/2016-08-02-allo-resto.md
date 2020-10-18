@@ -8,4 +8,4 @@ tagid: "Allo Resto"
 illustration: /images/alloresto.jpg
 ---
 
-Allo Resto est un site de livraison à domicile à domicile.
+Allo Resto est un site de livraison à domicile à domicile. L'entreprise a été rachetée et est devenue Just Eat, l'organisation initiale de l'entreprise a alors été abandonnée.
