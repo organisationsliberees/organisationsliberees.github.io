@@ -25,6 +25,7 @@ echo "category: []" >> _posts/$FILENAME"."$EXTENSION
 echo "tags: []" >> _posts/$FILENAME"."$EXTENSION
 echo "#embed_youtube:" >> _posts/$FILENAME"."$EXTENSION
 echo "#illustration: /images/default.jpg" >> _posts/$FILENAME"."$EXTENSION
+echo "#illustration_link: https://example.org/" >> _posts/$FILENAME"."$EXTENSION
 echo "---" >> _posts/$FILENAME"."$EXTENSION
 
 echo _posts/$FILENAME"."$EXTENSION created

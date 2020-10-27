@@ -46,14 +46,16 @@ layout: default
   </ul>
   <h2>Les dernières fiches&nbsp;:</h2>
   <ul class="visuposts">
-    {% for post in site.posts limit:8 %}{% unless post.categories contains "entreprise" %}{% unless post.categories contains "personnalité" %}
+    {% assign nb = 0 %}
+    {% for post in site.posts %}{% unless post.categories contains "entreprise" %}{% unless post.categories contains "personnalité" %}{% if nb < 8 %}
+    {% assign nb = nb | plus: 1 %}
     {% if post.illustration %}
     {% assign illustration = post.illustration %}
     {% else %}
     {% assign illustration = "/images/default.jpg" %}
     {% endif %}
       <li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ illustration | replace : '.', '.square.' }}" alt="{{ post.title }}" /><span class="title">{{ post.title }}</span><span class="categories">{{post.categories}}</span></a></li>
-    {% endunless %}{% endunless %}{% endfor %}
+    {% endif %}{% endunless %}{% endunless %}{% endfor %}
   </ul>
   <p style="text-align: right; margin-right: 150px;"><a href="/archives/">Plus de notes</a><p/>
 </div>

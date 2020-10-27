@@ -18,7 +18,7 @@ layout: default
   {% else %}
 	{% if page.illustration %}
 	    <center>
-	       <img src="{{ page.illustration }}" width="300"/>
+	      {% if page.illustration_link %}<a href="{{ page.illustration_link }}">{% endif %}<img src="{{ page.illustration }}" width="300"/>{% if page.illustration_link %}</a>{% endif %}
             </center>
         {% endif %}
   {% endif %}
