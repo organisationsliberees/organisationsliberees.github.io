@@ -34,7 +34,7 @@ a:visited { color: #205caa; }
 
 ul.visuposts li a.post-link{ width: 24%; }
 @media all and (max-width: 674px){
-  ul.visuposts li a.post-link{ width: 49%; } 
+  ul.visuposts li a.post-link{ width: 49%; }
 }
 
 /* Layout Styles */
@@ -266,6 +266,9 @@ ul.visuposts li a.post-link{ width: 24%; }
 }
 
 .post pre.terminal code { background-color: #333; }
+
+.post .morelinks h2 { margin: 20px; }
+
 
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
