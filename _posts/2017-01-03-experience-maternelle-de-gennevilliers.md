@@ -7,6 +7,10 @@ tags: ["Céline Alvarez"]
 tagid: "École maternelle de Gennevilliers"
 #embed_youtube:
 illustration: /images/gennevilliers.jpg
+entreprise.geocode: [48.92584,2.29297]
+entreprise.effectif: 2
+#entreprise.chiffredaffaire: 
+entreprise.activite: Education
 ---
 
 En 2011 et pendant trois ans, Céline Alvarez a entrepris une expérience au sein d'une classe de maternelle d'autonomisation de ses élèves qui avaient entre 3 et 5 ans. Elle a mis en oeuvre une démarche inspirée des savoirs issues des sciences cognitives et des connaissances apportées par Maria Montessori.

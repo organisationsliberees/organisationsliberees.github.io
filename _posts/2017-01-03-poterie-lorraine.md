@@ -7,6 +7,11 @@ tags: []
 tagid: "Poterie Lorraine"
 #embed_youtube:
 illustration: /images/PoterieLorraine.jpg
+entreprise.geocode: [48.32901, 6.682971]
+entreprise.effectif: 54
+entreprise.chiffredaffaire: 5 M€
+entreprise.activite: Poterie
+entreprise.identifiant_national: 304368335
 ---
 
 La Poterie Lorraine est une entreprise spécialisée dans la fabrication de pot de fleurs. En 2003, elle dépose le bilan et est reprise par Jean-Claude Fringand. Suite à cette reprise, il met en place une politique limitant les niveaux hierarchiques. Elle passe de 1 million d'euros de Chiffre d'affaire (et 104 salariés) à 5 millions (et 54 salariés) à la fin de son expérience, 10 ans plus tard.

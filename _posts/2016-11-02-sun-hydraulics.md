@@ -7,6 +7,11 @@ tags: []
 tagid: "Sun Hydraulics"
 #embed_youtube:
 illustration: /images/sunhydraulics.jpg
+entreprise.geocode: [27.38966,-82.54344]
+entreprise.effectif: 1960
+entreprise.chiffredaffaire: 560 M$
+#https://www.owler.com/company/sunhydraulics
+entreprise.activite: Equipement industriel
 ---
 Sun Hycraulics est une entreprise industrielle américaine.
 

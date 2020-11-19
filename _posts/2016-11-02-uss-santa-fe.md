@@ -7,6 +7,10 @@ tags: []
 tagid: "USS Santa Fe"
 #embed_youtube:
 illustration: /images/usssantafe.jpg
+entreprise.geocode: [35.6654,-105.9696]
+#entreprise.effectif: 
+#entreprise.chiffredaffaire: 
+entreprise.activite: Armée
 ---
 
 L'USS Santa Fe est un sous marin de l'armée américaine.

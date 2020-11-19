@@ -7,6 +7,11 @@ tags: []
 tagid: "Zingerman's"
 #embed_youtube:
 illustration: /images/ZCOB_logo.jpg
+entreprise.geocode: [42.28456, -83.74504]
+entreprise.effectif: 75
+entreprise.chiffredaffaire: 15 M€
+#https://www.zingermansfoodtours.com/our-staff-guides/
+entreprise.activite: Restauration
 ---
 Zingerman's est une communauté d'entreprises agissant dans la restauration. Crée en 1982 autour d'une sandwicherie par Paul Saginaw et Ari Weinzweig à Ann Arbor (Michigan), cette organisation emploie 700 personnes autour de 9 entreprises : café, boulangerie, restaurant, fabrique de bonbons, ...
 

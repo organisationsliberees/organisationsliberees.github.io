@@ -1,3 +1,7 @@
+entreprise.geocode: [, ]
+entreprise.effectif: 
+entreprise.chiffredaffaire: 
+entreprise.activite: 
 ---
 title: "SPF Mobilité et Transports"
 date:  2016-08-02 11:33
@@ -6,6 +10,10 @@ category: ["entreprise"]
 tagid: "SPF Mobilité et Transports"
 #embed_youtube:
 illustration: /images/spfmobilitetransport.jpg
+entreprise.geocode: [50.85770,4.35967]
+#entreprise.effectif: 
+#entreprise.chiffredaffaire: 
+entreprise.activite: Secteur public
 ---
 
 Le SPF Mobilité et Transport est le Service Public Fédéral Belge en charge du transport.
