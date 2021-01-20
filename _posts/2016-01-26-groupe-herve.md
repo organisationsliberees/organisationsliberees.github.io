@@ -8,9 +8,11 @@ tagid: "groupe Hervé"
 illustration: /images/groupe-herve.jpg
 ---
 
-Le groupe Hervé est une entreprise français fondée par Michel Hervé en 1972. A sa création, elle était spécialisée dans le génie climatique. Elle a ennormement diversifié ses activités. Elles s'organisent aujourd'hui autour de trois pôles : Industrie ; Énergie - Services et Numérique.
+Le groupe Hervé est une entreprise français fondée par Michel Hervé en 1972. A sa création, elle était spécialisée dans le génie climatique. Elle a énormément diversifié ses activités. Elles s'organisent aujourd'hui autour de trois pôles : Industrie ; Énergie - Services et Numérique.
 
 Le groupe était constituée de 2 800 salariés en 2014.
+
+Ces dernières années la réalité de la « démocratie d'entreprise » au sein du groupe Hervé a fait l'[objet de polémiques](/procès/2021/01/20/l-envers-du-decor-sur-la-democratie-d-entreprise-par-michel-herve/).
 
 [Le site du groupe Hervé](http://www.groupeherve.com/)
 
