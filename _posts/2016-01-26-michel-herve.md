@@ -2,7 +2,6 @@
 title: "Michel Hervé"
 date:  2016-01-26 00:02
 layout: post
-category: [personnalité]
 tags: ["groupe Hervé"]
 tagid: "Michel Hervé"
 illustration: /images/herve.jpg
