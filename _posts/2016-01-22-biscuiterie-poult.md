@@ -1,4 +1,3 @@
----
 title: Poult
 date:  2016-01-22 18:52
 layout: post
@@ -7,6 +6,11 @@ tags: ["Carlos Verkaeren"]
 tagid: Poult
 redirect_from: /poult/
 illustration: /images/poult.jpg
+entreprise.geocode: [44.0199,1.3563]
+entreprise.effectif: 850
+entreprise.chiffredaffaire: 200000000 
+entreprise.activite: bisquiterie, industrie
+entreprise.identifiant_national: 343922704
 ---
 
 Entreprise française spécialisée dans la fabrication de Biscuit. Elle migre vers un management libéré en 2001 suite à l'arrivée à sa tête de Carlos Verkaeren.
@@ -23,6 +27,8 @@ Les principes fondamentaux de l'entreprises sont :
  * Droit à l'erreur
 
 Consulter les biscuits produits par Poult à l'usine de [Montauban](http://world.openfoodfacts.org/packager-code/emb-82121), celle de [Briec](http://fr.openfoodfacts.org/code-emballeur/emb-29020h), celle de [Fouesnant](http://fr.openfoodfacts.org/code-emballeur/emb-29058a), de [Sully sur Loire](http://fr.openfoodfacts.org/code-emballeur/emb-45315) ou à l'[usine de Aire sur l'adour](http://fr.openfoodfacts.org/commune/aire-sur-l-adour-landes-france).
+
+Le management libéré n'a pas tenu au départ de Carlos Verkaeren et a été abandonné par les nouveaux actionnaires de l'entreprise.
 
 [Consulter le site de Poult](http://www.groupe-poult.com/fr/)
 

@@ -1,4 +1,3 @@
----
 title: "Patagonia"
 date:  2016-02-02 11:50
 layout: post
@@ -6,6 +5,10 @@ category: [entreprise]
 tags: ["Yvon Chouinard"]
 tagid: Patagonia
 illustration: /images/patagonia.jpg
+entreprise.geocode: [34.2633,-119.2542]
+entreprise.effectif: 2000
+entreprise.chiffredaffaire: 540000000
+entreprise.activite: habillement, industrie
 ---
 
 Patagonia est une entreprise fondée en 1972 par Yvon Chouinard de vetements sportif très impliquée dans l'écologie.
