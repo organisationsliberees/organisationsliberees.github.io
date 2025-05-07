@@ -15,4 +15,4 @@ Il indiquait que « Michel Hervé demande à tous ses managers de classer les sa
 
 Suite à ce commentaire, le groupe Hervé a intenté une action judiciaire contre son ancien salarié.
 
-En décembre 2020, Thibaud Brière a indiqué de nouveau sur [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6745319564990550016/) : « Le groupe Hervé vient de perdre le procès en diffamation »
+En décembre 2020, Thibaud Brière a indiqué de nouveau sur [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6745319564990550016/) : « Le groupe Hervé vient de perdre le procès en diffamation » Cette décision a été [confirmée en appel en 2022](https://www.linkedin.com/feed/update/urn:li:activity:6935243042459148288/). L'entreprise a également porté plainte contre son ancien salarié pour le témoignage qu'il a livré à Radio France.
