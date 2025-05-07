@@ -1,6 +1,6 @@
 ---
 title: "Les 5 dysfonctionnements de l’entreprise libérée"
-date:  2025-05-07 15:45
+date:  2025-05-07 00:00
 layout: post
 category: ["interview"]
 tags: ["ouishare", "holacracy", "Hélène Picard", "Thibault Daudigeos", "Isaac Getz"]
