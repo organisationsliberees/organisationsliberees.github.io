@@ -4,9 +4,8 @@ date:  2025-05-07 00:00
 layout: post
 category: ["interview"]
 tags: ["ouishare", "holacracy", "Hélène Picard", "Thibault Daudigeos", "Isaac Getz"]
-#embed_youtube: https://player.vimeo.com/video/1046796390
+embed_youtube: https://www.youtube.com/watch?v=gj545CL2H1A
 illustration: /images/1046796390.jpg
-illustration_link: https://vimeo.com/video/1046796390
 ---
 
 Hélène Picard présente son travail de revue de la littérature des articles relatifs aux entreprises libérées afin d'identifier les 5 écueils classiques que doivent adresser ce type d'organisations :
